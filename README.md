@@ -1,2 +1,1 @@
-# org
-Official EuroZig Documents and their unofficial translations
+# Legal Documents for EuroZig
