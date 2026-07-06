@@ -95,4 +95,4 @@ c) For the purpose of legally binding representation, the joint signature of two
 
 d) The board keeps a written record of all its decisions.
 
-e) In principle, members of the Board serve in an honorary capacity. They are entitled to reimbursement for reasonable expenses incurred. The Members’ Meeting may resolve to provide reasonable remuneration for all regular members, including the Board.
+e) In principle, members of the Board serve in an honorary capacity. They are entitled to reimbursement for reasonable expenses incurred. Regular members and the Board may receive reasonable remuneration for all activities performed on behalf of EuroZig. The Members Assembly my establish further regulations regarding the reimbursement of expenses, as well as the remuneration of regular members, including the Board. Such regulations may be set out in a separate remuneration policy.
