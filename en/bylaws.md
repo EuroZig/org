@@ -37,7 +37,7 @@ c) By interacting with the scientific community in the field of computer science
 
 ## § 3 Membership
 
-(1) Any national or foreign natural or legal person may become member of EuroZig. Natural persons must be 16 years old. Persons under age do not have eligibility for election.
+(1) Any national or foreign natural or legal person may become member of EuroZig. Natural persons must be at least 16 years old. Persons under age do not have eligibility for election.
 
 (2) Condition for the acquisition of the membership is a written application for membership to the EuroZig board.
 
