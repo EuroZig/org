@@ -1,7 +1,6 @@
 # Preamble
 
-<Copy & paste from the ZSF mission statement. We can extend this, but the Preamble is not legally required.>
-The mission of the EuroZig is to foster an open and inclusive Zig programming language community and to advance the adoption of the Zig programming language. We do this through the organization and support of "Zig Days", conferences and workshops. TODO: what do we want to do as well (e.g., support maintainers of "important" Zig packages and application)
+EuroZig, as a independent organization, has the long-term goal to support and facilitate the growth of a diverse, european community of Zig programmers, and to provide education and guidance to all people willing to learn, teaching programmers to be competent, ethical, and to hold each other to high standards.
 
 ## § 1 Name, seat, financial year
 
