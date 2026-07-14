@@ -16,9 +16,11 @@ The purpose of the EuroZig is to promote education, science and research related
 
 (1) EuroZig promotes popular and professional education:
 
-a) By hosting and supporting conferences on free and open-source software development for hobbyists, students and professionals.
+a) By hosting and supporting conferences on free and open-source software (FOSS) development for hobbyists, students and professionals.
 
 b) By hosting and supporting Zig meetups for local communities.
+
+c) By hosting workshops and creating educational material about the Zig programming language and FOSS.
 
 (2) EuroZig promotes science and research:
 
