@@ -1,6 +1,6 @@
 # Preamble
 
-EuroZig, as a independent organization, has the long-term goal to support and facilitate the growth of a diverse, european community of Zig programmers, and to provide education and guidance to all people willing to learn, teaching programmers to be competent, ethical, and to hold each other to high standards.
+EuroZig aims to support and facilitate the European Zig community. We do this by providing education and guidance to all people willing to learn, teaching programmers to be competent, ethical, and to hold each other to high standards.
 
 ## § 1 Name, seat, financial year
 
