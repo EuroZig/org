@@ -48,21 +48,21 @@ c) By interacting with the scientific community in the field of computer science
 
 (5) The membership terminates due to exit, expulsion, death, or – in the case of legal bodies – due to the loss of its legal status. The membership may be terminated on December 31st of each year, and a written request has to be submitted to the board at least 4 weeks prior.
 
-(6) A member can have their membership revoked be expulsed from the foundation by the board or by the general assembly under the following conditions:
+(6) A member can have their membership revoked be expulsed from the association by the board or by the general assembly under the following conditions:
 
-a) The member seriously violates regulations contained in the Articles of foundation and/or the purpose and aim of the foundation.
+a) The member seriously violates regulations contained in the Articles of association and/or the purpose and aim of the association.
 
 b) The member does not pay the membership fees over a period of 12 months despite repeated reminders.
 
 (7) There are regular and supporting members.
 
-a) Regular members are natural persons supporting the foundation’s purpose and aims. They have the right to participate in the members assembly have and passive voting rights in the members assembly.
+a) Regular members are natural persons supporting the association’s purpose and aims. They have the right to participate in the members assembly have and passive voting rights in the members assembly.
 
-b) Supporting members are extraordinary members supporting the foundation’s purposes and aims primarily through financial or material contributions. If desired, their names will be published on the association’s website. They do not participate in the members assembly and do not have any voting rights.
+b) Supporting members are extraordinary members supporting the association’s purposes and aims primarily through financial or material contributions. If desired, their names will be published on the association’s website. They do not participate in the members assembly and do not have any voting rights.
 
-## § 4 Bodies of the foundation
+## § 4 Bodies of the association
 
-(1) The organs of the foundation are the members assembly and the board.
+(1) The organs of the association are the members assembly and the board.
 
 (2) The Members’ assembly
 
@@ -78,7 +78,7 @@ e) The Members’ Assembly is responsible for enacting membership fee regulation
 
 f) The Members’ assembly receives the board’s annual report as well as the audit report of the auditor and discharges the board’s responsibilities.
 
-g) The Members’ assembly has the right to decide about amendments and changes to the Articles of Foundation and the liquidation of the foundation.
+g) The Members’ assembly has the right to decide about amendments and changes to the Articles of association and the liquidation of the association.
 
 h) The Members’ assembly has the right to decide about all matters submitted to it by any regular member.
 
