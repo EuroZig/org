@@ -74,46 +74,48 @@ b) Fördernde Mitglieder sind außerordentliche Mitglieder, die die Zwecke und Z
 
 (1) Die Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
-(2) Die Mitgliederversammlung
+= § 5 Die Mitgliederversammlung
 
-a) Die Mitgliederversammlung besteht aus allen ordentlichen Mitgliedern des Vereins, die jeweils eine Stimme haben.
+(1) Die Mitgliederversammlung besteht aus allen ordentlichen Mitgliedern des Vereins, die jeweils eine Stimme haben.
 
-b) Die Mitgliederversammlung entscheidet über grundlegende Fragen zu den Grundsätzen, Aktivitäten und der allgemeinen Ausrichtung des Vereins.
+(2) Die Mitgliederversammlung entscheidet über grundlegende Fragen zu den Grundsätzen, Aktivitäten und der allgemeinen Ausrichtung des Vereins.
 
-c) Die Mitgliederversammlung wählt den Vorstand.
+(3) Die Mitgliederversammlung wählt den Vorstand.
 
-d) Die Mitgliederversammlung wählt einen Kassenprüfer.
+(4) Die Mitgliederversammlung wählt einen Kassenprüfer.
 
-e) Die Mitgliederversammlung ist für den Erlass einer Beitragsordnung zuständig, die dokumentiert und auf der EuroZig-Website veröffentlicht werden muss.
+(5) Die Mitgliederversammlung ist für den Erlass einer Beitragsordnung zuständig, die dokumentiert und auf der EuroZig-Website veröffentlicht werden muss.
 
-f) Die Mitgliederversammlung nimmt den Jahresbericht des Vorstands sowie den Prüfungsbericht des Kassenprüfers entgegen und entlastet den Vorstand.
+(6) Die Mitgliederversammlung nimmt den Jahresbericht des Vorstands sowie den Prüfungsbericht des Kassenprüfers entgegen und entlastet den Vorstand.
 
-g) Die Mitgliederversammlung hat das Recht, über Satzungsänderungen und die Auflösung des Vereins zu entscheiden.
+(7) Die Mitgliederversammlung hat das Recht, über Satzungsänderungen und die Auflösung des Vereins zu entscheiden.
 
-h) Die Mitgliederversammlung hat das Recht, über alle Angelegenheiten zu entscheiden, die ihr von einem ordentlichen Mitglied vorgelegt werden.
+(8) Die Mitgliederversammlung hat das Recht, über alle Angelegenheiten zu entscheiden, die ihr von einem ordentlichen Mitglied vorgelegt werden.
 
-i) Die Mitgliederversammlung findet mindestens einmal jährlich statt.
+(9) Die Mitgliederversammlung findet mindestens einmal jährlich statt.
 
-j) Der Vorstand lädt die Mitglieder per E-Mail unter Angabe einer vorläufigen Tagesordnung ein. Die Einladung muss mindestens sechs Wochen vor der Versammlung versandt werden. Die Frist beginnt am Tag nach dem Absenden der Einladungs-E-Mail. Die Mitglieder sind dafür verantwortlich, dem Vorstand eine aktuelle E-Mail-Adresse mitzuteilen. Die Mitglieder können dem Vorstand bis zwei Wochen vor der Versammlung auf elektronischem Wege weitere Tagesordnungspunkte übermitteln. Maßgeblich ist das Datum des E-Mail-Eingangs. Der Vorstand veröffentlicht die endgültige Tagesordnung auf der EuroZig-Website.
+(10) Der Vorstand lädt die Mitglieder per E-Mail unter Angabe einer vorläufigen Tagesordnung ein. Die Einladung muss mindestens sechs Wochen vor der Versammlung versandt werden. Die Frist beginnt am Tag nach dem Absenden der Einladungs-E-Mail. Die Mitglieder sind dafür verantwortlich, dem Vorstand eine aktuelle E-Mail-Adresse mitzuteilen. Die Mitglieder können dem Vorstand bis zwei Wochen vor der Versammlung auf elektronischem Wege weitere Tagesordnungspunkte übermitteln. Maßgeblich ist das Datum des E-Mail-Eingangs. Der Vorstand veröffentlicht die endgültige Tagesordnung auf der EuroZig-Website.
 
-k) Die Mitgliederversammlung fasst ihre Beschlüsse grundsätzlich mit relativer Mehrheit in offener Abstimmung. Stimmenthaltungen bleiben ohne Wirkung. Auf Wunsch von mindestens drei stimmberechtigten Mitgliedern ist geheim abzustimmen. Zur Änderung der Satzung ist jedoch eine Mehrheit von drei Vierteln der abgegebenen gültigen Stimmen notwendig; zur Auflösung des Vereins ist eine Mehrheit von vier Fünfteln der abgegebenen gültigen Stimmen erforderlich. Eine Änderung des Zwecks des Vereins kann mit einer Mehrheit von vier Fünfteln der abgegebenen gültigen Stimmen beschlossen werden.
+(11) Die Mitgliederversammlung fasst ihre Beschlüsse grundsätzlich mit relativer Mehrheit in offener Abstimmung. Stimmenthaltungen bleiben ohne Wirkung. Auf Wunsch von mindestens drei stimmberechtigten Mitgliedern ist geheim abzustimmen. Kann bei Wahlen kein Kandidat die Mehrheit der Stimmen der anwesenden Mitglieder auf sich vereinen, ist gewählt, wer die Mehrheit der abgegebenen gültigen Stimmen erhalten hat; zwischen mehreren Kandidaten ist eine Stichwahl durchzuführen. Zur Änderung der Satzung ist jedoch eine Mehrheit von drei Vierteln der abgegebenen gültigen Stimmen notwendig; zur Auflösung des Vereins ist eine Mehrheit von vier Fünfteln der abgegebenen gültigen Stimmen erforderlich. Eine Änderung des Zwecks des Vereins kann mit einer Mehrheit von vier Fünfteln der abgegebenen gültigen Stimmen beschlossen werden.
 
-l) Über die Versammlung ist mindestens ein schriftliches Ergebnisprotokoll anzufertigen. Das Protokoll wird von der Protokollführung und der Versammlungsleitung unterschrieben.
+(12) Über die Versammlung ist mindestens ein schriftliches Ergebnisprotokoll anzufertigen. Das Protokoll wird von der Protokollführung und der Versammlungsleitung unterschrieben.
 
-(3) Der Vorstand
+= § 6 Der Vorstand
 
-a) Der Vorstand besteht aus drei Personen; nur natürliche Personen können Vorstandsmitglieder sein. Sie werden für eine Amtszeit von 2 Jahren gewählt. Die jeweiligen Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit so lange im Amt, bis ein Nachfolger gewählt ist.
+(1) Der Vorstand besteht aus drei Personen; nur natürliche Personen können Vorstandsmitglieder sein. Sie werden für eine Amtszeit von 2 Jahren gewählt. Die jeweiligen Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit so lange im Amt, bis ein Nachfolger gewählt ist.
 
-b) Der Vorstand wählt aus seiner Mitte einen Vorsitzenden, einen zweiten Vorsitzenden und einen Schatzmeister.
+(2) Der Vorstand wählt aus seiner Mitte einen Vorsitzenden, einen zweiten Vorsitzenden und einen Schatzmeister.
 
-c) Zur rechtsverbindlichen Vertretung genügt die gemeinsame Unterschrift von zwei Vorstandsmitgliedern.
+(3) Zur rechtsverbindlichen Vertretung genügt die gemeinsame Unterschrift von zwei Vorstandsmitgliedern.
 
-d) Der Vorstand führt über alle seine Beschlüsse ein Protokoll in Textform.
+(4) Der Vorstand führt über alle seine Beschlüsse ein Protokoll in Textform.
 
-e) Die Mitglieder des Vorstands sind grundsätzlich ehrenamtlich tätig. Sie haben Anspruch auf Erstattung angemessener Auslagen. Ordentliche Mitglieder und der Vorstand können für alle im Namen von EuroZig ausgeübten Tätigkeiten eine angemessene Vergütung erhalten. Die Mitgliederversammlung kann weitere Regelungen zur Erstattung von Auslagen sowie zur Vergütung der ordentlichen Mitglieder, einschließlich des Vorstands, festlegen. Solche Regelungen können in einer gesonderten Vergütungsordnung festgelegt werden.
+(5) Die Mitglieder des Vorstands sind grundsätzlich ehrenamtlich tätig. Sie haben Anspruch auf Erstattung angemessener Auslagen. Ordentliche Mitglieder und der Vorstand können für alle im Namen von EuroZig ausgeübten Tätigkeiten eine angemessene Vergütung erhalten. Die Mitgliederversammlung kann weitere Regelungen zur Erstattung von Auslagen sowie zur Vergütung der ordentlichen Mitglieder, einschließlich des Vorstands, festlegen. Solche Regelungen können in einer gesonderten Vergütungsordnung festgelegt werden.
 
-f) Änderungen oder Ergänzungen der Satzung, die von der zuständigen Registerbehörde oder vom Finanzamt vorgeschrieben werden, werden vom Vorstand umgesetzt und bedürfen keiner Beschlussfassung durch die Mitgliederversammlung. Sie sind den Mitgliedern unverzüglich mitzuteilen.
+(6) Änderungen oder Ergänzungen der Satzung, die von der zuständigen Registerbehörde oder vom Finanzamt vorgeschrieben werden, werden vom Vorstand umgesetzt und bedürfen keiner Beschlussfassung durch die Mitgliederversammlung. Sie sind den Mitgliedern unverzüglich mitzuteilen.
 
-= § 5 Auflösung
+(7) Scheidet ein Mitglied vorzeitig aus dem Vorstand aus, so sind die verbleibenden Mitglieder des Vorstands berechtigt, ein Mitglied des Vereins bis zur Wahl des Nachfolgers durch die Mitgliederversammlung in den Vorstand zu wählen.
+
+= § 7 Auflösung
 
 (1) Bei Auflösung, bei Entziehung der Rechtsfähigkeit des Vereins oder bei Wegfall der steuerbegünstigten Zwecke fällt das gesamte Vermögen an die Free Software Foundation Europe e.V., die es ausschließlich und unmittelbar für gemeinnützige Zwecke zu verwenden hat. Sollte dieser Verein zu diesem Zeitpunkt nicht mehr gemeinnützig sein, fällt das Vermögen an eine andere von der Mitgliederversammlung zu bestimmende gemeinnützige Körperschaft, die das Vermögen für gemeinnützige Zwecke zu verwenden hat.

@@ -74,46 +74,48 @@ b) Supporting members are extraordinary members supporting the association's pur
 
 (1) The bodies of the association are the Members' assembly and the board.
 
-(2) The Members' assembly
+= § 5 The Members' assembly
 
-a) The Members' assembly consists of all of the association's regular members, who have one vote each.
+(1) The Members' assembly consists of all of the association's regular members, who have one vote each.
 
-b) The Members' assembly decides fundamental questions related to the association's principles, activities, and overall direction.
+(2) The Members' assembly decides fundamental questions related to the association's principles, activities, and overall direction.
 
-c) The Members' assembly elects the board.
+(3) The Members' assembly elects the board.
 
-d) The Members' assembly elects a cash auditor.
+(4) The Members' assembly elects a cash auditor.
 
-e) The Members' assembly is responsible for enacting membership fee regulations, which must be documented and published on the EuroZig website.
+(5) The Members' assembly is responsible for enacting membership fee regulations, which must be documented and published on the EuroZig website.
 
-f) The Members' assembly receives the board's annual report as well as the audit report of the auditor and discharges the board's responsibilities.
+(6) The Members' assembly receives the board's annual report as well as the audit report of the auditor and discharges the board's responsibilities.
 
-g) The Members' assembly has the right to decide about amendments and changes to the Articles of association and the dissolution of the association.
+(7) The Members' assembly has the right to decide about amendments and changes to the Articles of association and the dissolution of the association.
 
-h) The Members' assembly has the right to decide about all matters submitted to it by any regular member.
+(8) The Members' assembly has the right to decide about all matters submitted to it by any regular member.
 
-i) The Members' assembly takes place at least once a year.
+(9) The Members' assembly takes place at least once a year.
 
-j) The Board invites the members by email, providing a preliminary agenda. The invitation has to be sent at least six weeks prior to the meeting. The time limit starts on the day after the invitation email was sent. Members are responsible for providing the board with an up-to-date email address. The members may submit additional agenda items to the board electronically until two weeks before the assembly. The date when the email was received is binding. The Board will publish the final agenda on the EuroZig website.
+(10) The Board invites the members by email, providing a preliminary agenda. The invitation has to be sent at least six weeks prior to the meeting. The time limit starts on the day after the invitation email was sent. Members are responsible for providing the board with an up-to-date email address. The members may submit additional agenda items to the board electronically until two weeks before the assembly. The date when the email was received is binding. The Board will publish the final agenda on the EuroZig website.
 
-k) The Members' assembly generally passes its resolutions by relative majority in an open vote. Abstentions have no effect. At the request of at least three members entitled to vote, the vote must be held by secret ballot. However, an amendment to the Articles of association requires a majority of three quarters of the valid votes cast; the dissolution of the association requires a majority of four fifths of the valid votes cast. An amendment to the association's purpose may be resolved by a majority of four fifths of the valid votes cast.
+(11) The Members' assembly generally passes its resolutions by relative majority in an open vote. Abstentions have no effect. At the request of at least three members entitled to vote, the vote must be held by secret ballot. If, in an election, no candidate obtains a majority of the votes of the members present, the candidate who has received the majority of the valid votes cast is elected; where there are several candidates, a runoff is held. However, an amendment to the Articles of association requires a majority of three quarters of the valid votes cast; the dissolution of the association requires a majority of four fifths of the valid votes cast. An amendment to the association's purpose may be resolved by a majority of four fifths of the valid votes cast.
 
-l) At least a written record of the results of the assembly must be produced. The minutes are signed by the person taking the minutes and the person chairing the assembly.
+(12) At least a written record of the results of the assembly must be produced. The minutes are signed by the person taking the minutes and the person chairing the assembly.
 
-(3) The board
+= § 6 The board
 
-a) The Board consists of three people, and only natural persons can be board members. They are elected for a 2-year term. The respective board members remain in office after the end of their term until a successor is elected.
+(1) The Board consists of three people, and only natural persons can be board members. They are elected for a 2-year term. The respective board members remain in office after the end of their term until a successor is elected.
 
-b) From its midst the Board elects a chairperson, a second chairperson and a treasurer.
+(2) From its midst the Board elects a chairperson, a second chairperson and a treasurer.
 
-c) For the purpose of legally binding representation, the joint signature of two members of the board is sufficient.
+(3) For the purpose of legally binding representation, the joint signature of two members of the board is sufficient.
 
-d) The board keeps a written record of all its decisions.
+(4) The board keeps a written record of all its decisions.
 
-e) In principle, members of the Board serve in an honorary capacity. They are entitled to reimbursement for reasonable expenses incurred. Regular members and the Board may receive reasonable remuneration for all activities performed on behalf of EuroZig. The Members' assembly may establish further regulations regarding the reimbursement of expenses, as well as the remuneration of regular members, including the Board. Such regulations may be set out in a separate remuneration policy.
+(5) In principle, members of the Board serve in an honorary capacity. They are entitled to reimbursement for reasonable expenses incurred. Regular members and the Board may receive reasonable remuneration for all activities performed on behalf of EuroZig. The Members' assembly may establish further regulations regarding the reimbursement of expenses, as well as the remuneration of regular members, including the Board. Such regulations may be set out in a separate remuneration policy.
 
-f) Amendments or additions to the Articles of association that are required by the competent registration authority or by the tax office are implemented by the board and do not require a resolution of the Members' assembly. They must be communicated to the members without delay.
+(6) Amendments or additions to the Articles of association that are required by the competent registration authority or by the tax office are implemented by the board and do not require a resolution of the Members' assembly. They must be communicated to the members without delay.
 
-= § 5 Dissolution
+(7) If a board member leaves the board prematurely, the remaining board members are entitled to co-opt a member of the association onto the board until a successor is elected by the Members' assembly.
+
+= § 7 Dissolution
 
 (1) In the event of dissolution, of the withdrawal of the association's legal capacity, or of the discontinuation of its tax-privileged purposes, the entire assets pass to the Free Software Foundation Europe e.V., which must use them exclusively and directly for non-profit purposes. Should that association no longer be non-profit at that time, the assets pass to another non-profit corporation to be designated by the Members' assembly, which must use the assets for non-profit purposes.
