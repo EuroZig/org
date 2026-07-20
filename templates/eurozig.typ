@@ -94,7 +94,7 @@
   show heading.where(level: 1): it => block(
     above: 1.6em,
     below: 0.8em,
-    text(font: sans, weight: 700, size: 14pt, it.body + [ #sym.arrow.r]),
+    text(font: sans, weight: 700, size: 14pt, it.body),
   )
   // Card-headline style subheadings (condensed serif on the site).
   show heading.where(level: 2): it => block(
