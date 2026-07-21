@@ -68,6 +68,8 @@ Zweck von EuroZig ist die Förderung von Bildung, Wissenschaft und Forschung im 
 
   + Fördernde Mitglieder sind außerordentliche Mitglieder, die die Zwecke und Ziele des Vereins vorrangig durch finanzielle oder materielle Beiträge unterstützen. Auf Wunsch werden ihre Namen auf der Website des Vereins veröffentlicht. Sie nehmen nicht an der Mitgliederversammlung teil und haben kein Stimmrecht.
 
++ Ordentliche Mitglieder können für alle im Namen von EuroZig ausgeübten Tätigkeiten eine angemessene Vergütung gemäß der Vergütungsordnung erhalten.
+
 = § 4 Organe des Vereins
 
 + Die Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
@@ -110,7 +112,7 @@ Zweck von EuroZig ist die Förderung von Bildung, Wissenschaft und Forschung im 
 
 + Der Vorstand führt über alle seine Beschlüsse ein Protokoll in Textform.
 
-+ Die Mitglieder des Vorstands sind grundsätzlich ehrenamtlich tätig. Sie haben Anspruch auf Erstattung angemessener Auslagen. Ordentliche Mitglieder und der Vorstand können für alle im Namen von EuroZig ausgeübten Tätigkeiten eine angemessene Vergütung gemäß der Vergütungsordnung erhalten.
++ Die Mitglieder des Vorstands sind grundsätzlich ehrenamtlich tätig. Sie können für alle im Namen von EuroZig ausgeübten Tätigkeiten eine angemessene Vergütung gemäß der Vergütungsordnung erhalten.
 
 + Änderungen oder Ergänzungen der Satzung, die von der zuständigen Registerbehörde oder vom Finanzamt vorgeschrieben werden, werden vom Vorstand umgesetzt und bedürfen keiner Beschlussfassung durch die Mitgliederversammlung. Sie sind den Mitgliedern unverzüglich mitzuteilen.
 

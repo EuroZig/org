@@ -68,6 +68,8 @@ The purpose of EuroZig is to promote education, science and research related to 
 
   + Supporting members are extraordinary members supporting the association's purposes and aims primarily through financial or material contributions. If desired, their names will be published on the association's website. They do not participate in the Members' assembly and do not have any voting rights.
 
++ Regular members may receive reasonable remuneration for all activities performed on behalf of EuroZig, in accordance with the remuneration regulations.
+
 = § 4 Bodies of the association
 
 + The bodies of the association are the Members' assembly and the board.
@@ -110,7 +112,7 @@ The purpose of EuroZig is to promote education, science and research related to 
 
 + The board keeps a written record of all its decisions.
 
-+ In principle, members of the Board serve in an honorary capacity. They are entitled to reimbursement for reasonable expenses incurred. Regular members and the Board may receive reasonable remuneration for all activities performed on behalf of EuroZig, in accordance with the remuneration regulations.
++ In principle, members of the Board serve in an honorary capacity. They may receive reasonable remuneration for all activities performed on behalf of EuroZig, in accordance with the remuneration regulations.
 
 + Amendments or additions to the Articles of association that are required by the competent registration authority or by the tax office are implemented by the board and do not require a resolution of the Members' assembly. They must be communicated to the members without delay.
 
