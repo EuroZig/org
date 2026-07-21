@@ -3,6 +3,7 @@ name: Build statutes
 on:
   push:
     branches: [main]
+    tags: ['**']
 
 permissions:
   contents: read
@@ -11,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       # The macOS brand faces cannot be installed here; these are the libre
       # stand-ins that build.sh selects via --input fonts=libre.
@@ -30,10 +31,43 @@ jobs:
       - name: Build PDFs
         run: ./build.sh
 
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         with:
           name: statutes-pdf
           path: |
             de/satzung.pdf
             en/bylaws.pdf
           if-no-files-found: error
+
+  # On a tag push, attach the built PDFs to a GitHub release. Kept as a separate
+  # job so only this one needs write access to the repository.
+  release:
+    needs: build
+    if: startsWith(github.ref, 'refs/tags/')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v7
+        with:
+          name: statutes-pdf
+          path: pdf
+
+      # Version the filenames, so a PDF downloaded on its own is still
+      # identifiable without opening it.
+      - name: Name assets after the tag
+        run: |
+          ls -R pdf
+          cp pdf/de/satzung.pdf "EuroZig-Satzung-$GITHUB_REF_NAME.pdf"
+          cp pdf/en/bylaws.pdf "EuroZig-Bylaws-$GITHUB_REF_NAME.pdf"
+
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" \
+            "EuroZig-Satzung-$GITHUB_REF_NAME.pdf" \
+            "EuroZig-Bylaws-$GITHUB_REF_NAME.pdf" \
+            --title "$GITHUB_REF_NAME" \
+            --generate-notes
