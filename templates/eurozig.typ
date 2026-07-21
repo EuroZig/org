@@ -6,8 +6,15 @@
 #let ink = rgb("1f1f1f") // --ink
 #let gray = rgb("f0f0f0") // --gray
 
-#let sans = ("Helvetica Neue", "Arial")
-#let serif = ("Rockwell", "Georgia")
+// The brand faces ship with macOS and cannot be installed on Linux CI, so
+// `--input fonts=libre` selects stand-ins: Liberation Sans is metric-compatible
+// with Arial, and Roboto Slab is the slab serif the website CSS already falls
+// back to. build.sh picks the right set per platform, which keeps Typst from
+// warning about families that are absent on the machine doing the build.
+#let _libre = sys.inputs.at("fonts", default: "") == "libre"
+
+#let sans = if _libre { ("Liberation Sans",) } else { ("Helvetica Neue", "Arial") }
+#let serif = if _libre { ("Roboto Slab",) } else { ("Rockwell", "Georgia") }
 
 // ---------- brand elements ----------
 
