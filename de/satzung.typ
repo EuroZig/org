@@ -1,5 +1,6 @@
-// Satzung des EuroZig e.V. Kompilieren mit:
-//   typst compile --root .. satzung.typ
+// Satzung des EuroZig e.V. Kompilieren mit ../build.sh (setzt die Revision im
+// Fußzeilen-Stempel) oder direkt mit:
+//   typst compile --root .. --input rev=$(git rev-parse --short=8 HEAD) satzung.typ
 #import "../templates/bylaws.typ": bylaws-doc
 
 #show: bylaws-doc.with(
@@ -43,8 +44,6 @@ Zweck von EuroZig ist die Förderung von Bildung, Wissenschaft und Forschung im 
 
 + Mittel von EuroZig dürfen nur für die satzungsgemäßen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck von EuroZig fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
-+ Darüber hinaus kann EuroZig auch ideelle und finanzielle Unterstützung für andere steuerbegünstigte Körperschaften, Körperschaften des öffentlichen Rechts oder ausländische Körperschaften zur ideellen und materiellen Förderung und Aufrechterhaltung der in Punkt (1) und (2) genannten gemeinnützigen Zwecke leisten (gemäß § 58 Nr. 1 AO). Darüber hinaus kann EuroZig Mittel im Sinne des § 58 Nr. 2 AO teilweise einer anderen ebenfalls steuerbegünstigten Körperschaft oder einer juristischen Person des öffentlichen Rechts zur Verwirklichung steuerbegünstigter Zwecke zur Verfügung stellen.
-
 = § 3 Mitgliedschaft
 
 + Jede in- oder ausländische natürliche oder juristische Person kann Mitglied von EuroZig werden. Natürliche Personen müssen mindestens 16 Jahre alt sein.
@@ -85,6 +84,8 @@ Zweck von EuroZig ist die Förderung von Bildung, Wissenschaft und Forschung im 
 
 + Die Mitgliederversammlung ist für den Erlass einer Beitragsordnung zuständig, die dokumentiert und auf der EuroZig-Website veröffentlicht werden muss.
 
++ Die Mitgliederversammlung hat das Recht, eine Vergütungsordnung zu erlassen. Die Vergütungsordnung enthält Regelungen zur Vergütung der ordentlichen Mitglieder, einschließlich des Vorstands. Sie ist auf der EuroZig-Website zu veröffentlichen.
+
 + Die Mitgliederversammlung nimmt den Jahresbericht des Vorstands sowie den Prüfungsbericht des Kassenprüfers entgegen und entlastet den Vorstand.
 
 + Die Mitgliederversammlung hat das Recht, über Satzungsänderungen und die Auflösung des Vereins zu entscheiden.
@@ -93,7 +94,7 @@ Zweck von EuroZig ist die Förderung von Bildung, Wissenschaft und Forschung im 
 
 + Die Mitgliederversammlung findet mindestens einmal jährlich statt.
 
-+ Der Vorstand lädt die Mitglieder per E-Mail unter Angabe einer vorläufigen Tagesordnung ein. Die Einladung muss mindestens sechs Wochen vor der Versammlung versandt werden. Die Frist beginnt am Tag nach dem Absenden der Einladungs-E-Mail. Die Mitglieder sind dafür verantwortlich, dem Vorstand eine aktuelle E-Mail-Adresse mitzuteilen. Die Mitglieder können dem Vorstand bis zwei Wochen vor der Versammlung auf elektronischem Wege weitere Tagesordnungspunkte übermitteln. Maßgeblich ist das Datum des E-Mail-Eingangs. Der Vorstand veröffentlicht die endgültige Tagesordnung auf der EuroZig-Website.
++ Der Vorstand lädt die Mitglieder per E-Mail unter Angabe einer vorläufigen Tagesordnung ein. Die Einladung muss mindestens sechs Wochen vor der Versammlung versandt werden. Die Frist beginnt am Tag nach dem Absenden der Einladungs-E-Mail. Die Mitglieder sind dafür verantwortlich, dem Vorstand eine aktuelle E-Mail-Adresse mitzuteilen. Die Mitglieder können dem Vorstand bis zwei Wochen vor der Versammlung per E-Mail weitere Tagesordnungspunkte übermitteln. Maßgeblich ist das Datum des E-Mail-Eingangs. Der Vorstand veröffentlicht die endgültige Tagesordnung auf der EuroZig-Website.
 
 + Die Mitgliederversammlung fasst ihre Beschlüsse grundsätzlich mit relativer Mehrheit in offener Abstimmung. Stimmenthaltungen bleiben ohne Wirkung. Auf Wunsch von mindestens drei stimmberechtigten Mitgliedern ist geheim abzustimmen. Kann bei Wahlen kein Kandidat die Mehrheit der Stimmen der anwesenden Mitglieder auf sich vereinen, ist gewählt, wer die Mehrheit der abgegebenen gültigen Stimmen erhalten hat; zwischen mehreren Kandidaten ist eine Stichwahl durchzuführen. Zur Änderung der Satzung ist jedoch eine Mehrheit von drei Vierteln der abgegebenen gültigen Stimmen notwendig; zur Auflösung des Vereins ist eine Mehrheit von vier Fünfteln der abgegebenen gültigen Stimmen erforderlich. Eine Änderung des Zwecks des Vereins kann mit einer Mehrheit von vier Fünfteln der abgegebenen gültigen Stimmen beschlossen werden.
 
@@ -109,7 +110,7 @@ Zweck von EuroZig ist die Förderung von Bildung, Wissenschaft und Forschung im 
 
 + Der Vorstand führt über alle seine Beschlüsse ein Protokoll in Textform.
 
-+ Die Mitglieder des Vorstands sind grundsätzlich ehrenamtlich tätig. Sie haben Anspruch auf Erstattung angemessener Auslagen. Ordentliche Mitglieder und der Vorstand können für alle im Namen von EuroZig ausgeübten Tätigkeiten eine angemessene Vergütung erhalten. Die Mitgliederversammlung kann weitere Regelungen zur Erstattung von Auslagen sowie zur Vergütung der ordentlichen Mitglieder, einschließlich des Vorstands, festlegen. Solche Regelungen können in einer gesonderten Vergütungsordnung festgelegt werden.
++ Die Mitglieder des Vorstands sind grundsätzlich ehrenamtlich tätig. Sie haben Anspruch auf Erstattung angemessener Auslagen. Ordentliche Mitglieder und der Vorstand können für alle im Namen von EuroZig ausgeübten Tätigkeiten eine angemessene Vergütung gemäß der Vergütungsordnung erhalten.
 
 + Änderungen oder Ergänzungen der Satzung, die von der zuständigen Registerbehörde oder vom Finanzamt vorgeschrieben werden, werden vom Vorstand umgesetzt und bedürfen keiner Beschlussfassung durch die Mitgliederversammlung. Sie sind den Mitgliedern unverzüglich mitzuteilen.
 
@@ -117,4 +118,6 @@ Zweck von EuroZig ist die Förderung von Bildung, Wissenschaft und Forschung im 
 
 = § 7 Auflösung
 
-+ Bei Auflösung, bei Entziehung der Rechtsfähigkeit des Vereins oder bei Wegfall der steuerbegünstigten Zwecke fällt das gesamte Vermögen an die Free Software Foundation Europe e.V., die es ausschließlich und unmittelbar für gemeinnützige Zwecke zu verwenden hat. Sollte dieser Verein zu diesem Zeitpunkt nicht mehr gemeinnützig sein, fällt das Vermögen an eine andere von der Mitgliederversammlung zu bestimmende gemeinnützige Körperschaft, die das Vermögen für gemeinnützige Zwecke zu verwenden hat.
++ Im Falle der Auflösung des Vereins sind die Vorstandsmitglieder gemeinsam vertretungsberechtigte Liquidatoren, falls die Mitgliederversammlung keine anderen Personen beruft.
+
++ Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft, zwecks Verwendung für die Förderung der Volks- und Berufsbildung oder der Wissenschaft und Forschung.

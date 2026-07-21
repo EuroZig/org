@@ -1,5 +1,6 @@
-// Bylaws of EuroZig e.V. Compile with:
-//   typst compile --root .. bylaws.typ
+// Bylaws of EuroZig e.V. Compile with ../build.sh (which stamps the revision
+// into the footer) or directly with:
+//   typst compile --root .. --input rev=$(git rev-parse --short=8 HEAD) bylaws.typ
 #import "../templates/bylaws.typ": bylaws-doc
 
 #show: bylaws-doc.with(
@@ -9,7 +10,7 @@
 
 = Preamble
 
-EuroZig aims to support and facilitate the European Zig community. We do this by providing education and guidance to all people willing to learn, teaching programmers to be competent, ethical, and to hold each other to high standards.
+EuroZig aims to support and facilitate the European Zig community. We do this by providing education and guidance to everyone interested in Zig, teaching programmers to be competent, ethical, and to hold each other to high standards.
 
 = § 1 Name, seat, financial year
 
@@ -43,8 +44,6 @@ The purpose of EuroZig is to promote education, science and research related to 
 
 + Means of EuroZig may be used for the statutory purposes only. The members do not receive any benefits from the funds of the association. No person may be favoured by expenses alien to the goals of EuroZig or by disproportionately high remuneration.
 
-+ In addition, EuroZig may also provide idealistic and financial support for other tax-privileged corporations, corporations under public law or foreign corporations for the idealistic and material promotion and maintenance of the non-profit purposes mentioned in point (1) and (2) (in accordance with § 58 No. 1 AO). Beyond that EuroZig may place means in the sense of the § 58 No. 2 AO partially to another likewise tax-privileged corporation or a legal entity under public law for the realisation of the tax-privileged purposes.
-
 = § 3 Membership
 
 + Any national or foreign natural or legal person may become member of EuroZig. Natural persons must be at least 16 years old.
@@ -75,7 +74,7 @@ The purpose of EuroZig is to promote education, science and research related to 
 
 = § 5 The Members' assembly
 
-+ The Members' assembly consists of all of the association's regular members, who have one vote each.
++ The Members' assembly consists of the association's regular members, who have one vote each.
 
 + The Members' assembly decides fundamental questions related to the association's principles, activities, and overall direction.
 
@@ -85,6 +84,8 @@ The purpose of EuroZig is to promote education, science and research related to 
 
 + The Members' assembly is responsible for enacting membership fee regulations, which must be documented and published on the EuroZig website.
 
++ The Members' assembly has the right to enact remuneration regulations. The remuneration regulations contain rules on the remuneration of regular members, including the board. They must be published on the EuroZig website.
+
 + The Members' assembly receives the board's annual report as well as the audit report of the auditor and discharges the board's responsibilities.
 
 + The Members' assembly has the right to decide about amendments and changes to the Articles of association and the dissolution of the association.
@@ -93,7 +94,7 @@ The purpose of EuroZig is to promote education, science and research related to 
 
 + The Members' assembly takes place at least once a year.
 
-+ The Board invites the members by email, providing a preliminary agenda. The invitation has to be sent at least six weeks prior to the meeting. The time limit starts on the day after the invitation email was sent. Members are responsible for providing the board with an up-to-date email address. The members may submit additional agenda items to the board electronically until two weeks before the assembly. The date when the email was received is binding. The Board will publish the final agenda on the EuroZig website.
++ The Board invites the members by email, providing a preliminary agenda. The invitation has to be sent at least six weeks prior to the meeting. The time limit starts on the day after the invitation email was sent. Members are responsible for providing the board with an up-to-date email address. The members may submit additional agenda items to the board by email until two weeks before the assembly. The date when the email was received is binding. The Board will publish the final agenda on the EuroZig website.
 
 + The Members' assembly generally passes its resolutions by relative majority in an open vote. Abstentions have no effect. At the request of at least three members entitled to vote, the vote must be held by secret ballot. If, in an election, no candidate obtains a majority of the votes of the members present, the candidate who has received the majority of the valid votes cast is elected; where there are several candidates, a runoff is held. However, an amendment to the Articles of association requires a majority of three quarters of the valid votes cast; the dissolution of the association requires a majority of four fifths of the valid votes cast. An amendment to the association's purpose may be resolved by a majority of four fifths of the valid votes cast.
 
@@ -109,7 +110,7 @@ The purpose of EuroZig is to promote education, science and research related to 
 
 + The board keeps a written record of all its decisions.
 
-+ In principle, members of the Board serve in an honorary capacity. They are entitled to reimbursement for reasonable expenses incurred. Regular members and the Board may receive reasonable remuneration for all activities performed on behalf of EuroZig. The Members' assembly may establish further regulations regarding the reimbursement of expenses, as well as the remuneration of regular members, including the Board. Such regulations may be set out in a separate remuneration policy.
++ In principle, members of the Board serve in an honorary capacity. They are entitled to reimbursement for reasonable expenses incurred. Regular members and the Board may receive reasonable remuneration for all activities performed on behalf of EuroZig, in accordance with the remuneration regulations.
 
 + Amendments or additions to the Articles of association that are required by the competent registration authority or by the tax office are implemented by the board and do not require a resolution of the Members' assembly. They must be communicated to the members without delay.
 
@@ -117,4 +118,6 @@ The purpose of EuroZig is to promote education, science and research related to 
 
 = § 7 Dissolution
 
-+ In the event of dissolution, of the withdrawal of the association's legal capacity, or of the discontinuation of its tax-privileged purposes, the entire assets pass to the Free Software Foundation Europe e.V., which must use them exclusively and directly for non-profit purposes. Should that association no longer be non-profit at that time, the assets pass to another non-profit corporation to be designated by the Members' assembly, which must use the assets for non-profit purposes.
++ In the event of the association's dissolution, the members of the board act as jointly authorised liquidators, unless the Members' assembly appoints other persons.
+
++ Upon dissolution or annulment of the association, or upon the discontinuation of tax-privileged purposes, the assets of the association pass to a legal entity under public law or to another tax-privileged corporation, for use in the promotion of popular and professional education or of science and research.
