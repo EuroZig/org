@@ -93,7 +93,9 @@
     footer-descent: 8mm,
   )
 
-  set text(font: sans, size: 10.5pt, fill: ink, lang: lang)
+  // Explicit `true` rather than the default `auto`, which would only hyphenate
+  // justified text. Patterns are chosen by `lang`.
+  set text(font: sans, size: 10.5pt, fill: ink, lang: lang, hyphenate: true)
   set par(leading: 0.6em, spacing: 1em)
   show link: set text(fill: highlight)
 
