@@ -112,7 +112,7 @@ Zweck von EuroZig ist die Förderung von Bildung, Wissenschaft und Forschung im 
 
 + Der Vorstand führt über alle seine Beschlüsse ein Protokoll in Textform.
 
-+ Die Mitglieder des Vorstands sind grundsätzlich ehrenamtlich tätig. Sie können für alle im Namen von EuroZig ausgeübten Tätigkeiten eine angemessene Vergütung gemäß der Vergütungsordnung erhalten.
++ Die Vereins- und Organämter werden grundsätzlich ehrenamtlich ausgeübt. Die Mitgliederversammlung kann bei Bedarf und unter Berücksichtigung der wirtschaftlichen Verhältnisse und der Haushaltslage beschließen, dass Vereins- und Organämter entgeltlich auf der Grundlage eines Dienst- oder Arbeitsvertrages oder gegen Zahlung einer angemessenen pauschalierten Aufwandsentschädigung (z.B. Ehrenamtspauschale) ausgeübt werden. Sie können für alle im Namen von EuroZig ausgeübten Tätigkeiten eine angemessene Vergütung gemäß der Vergütungsordnung erhalten.
 
 + Änderungen oder Ergänzungen der Satzung, die von der zuständigen Registerbehörde oder vom Finanzamt vorgeschrieben werden, werden vom Vorstand umgesetzt und bedürfen keiner Beschlussfassung durch die Mitgliederversammlung. Sie sind den Mitgliedern unverzüglich mitzuteilen.
 
