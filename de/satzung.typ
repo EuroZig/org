@@ -10,7 +10,9 @@
 
 = Präambel
 
-EuroZig hat sich zum Ziel gesetzt, die europäische Zig-Community zu unterstützen und zu fördern. Dies erreichen wir, indem wir allen Zig-Interessierten Bildung und Orientierung bieten und Programmierer dazu ausbilden, kompetent und ethisch zu handeln sowie gegenseitig hohe Standards einzufordern.
+Software prägt unsere Welt, doch all zu oft stellt sie Profit über den Menschen und verbraucht unnötig Ressourcen. EuroZig tritt an, um das zu ändern. Als Herz der europäischen Zig-Community stehen wir für eine neue Ära des Systems Programming: Wir bauen Software, die schnell, ressourcenschonend und radikal nutzerfreundlich ist.
+
+Um diese Vision Wirklichkeit werden zu lassen, bieten wir Bildung, Orientierung und eine starke Gemeinschaft. Wir befähigen Programmiererinnen und Programmierer dazu, exzellentes Handwerk abzuliefern, ethisch zu handeln und gegeniseitig jene hohen Standards einzufordern, die gute Software ausmachen.
 
 = § 1 Name, Sitz, Geschäftsjahr
 
