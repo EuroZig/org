@@ -15,7 +15,8 @@ case "$(uname -s)" in
   *)      fonts=libre ;;
 esac
 
-for doc in de/satzung.typ en/bylaws.typ; do
+for doc in de/satzung.typ en/bylaws.typ \
+           de/beitragsordnung.typ en/membership-fee-regulations.typ; do
   typst compile --root . --input "rev=$rev" --input "fonts=$fonts" "$doc"
   echo "built ${doc%.typ}.pdf (rev $rev, fonts $fonts)"
 done
