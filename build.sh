@@ -18,7 +18,9 @@ esac
 for doc in de/satzung.typ en/bylaws.typ \
            de/beitragsordnung.typ en/membership-fee-regulations.typ \
            de/verguetungsordnung.typ en/remuneration-regulations.typ \
-           de/20260913_EuroZig_Gruendungsprotokoll.typ; do
+           de/20260913_EuroZig_Gruendungsprotokoll.typ \
+           de/20260913_EuroZig_Einladung_Gruendungsversammlung.typ \
+           en/20260913_EuroZig_Invitation_Founding_Meeting.typ; do
   typst compile --root . --input "rev=$rev" --input "fonts=$fonts" "$doc"
   echo "built ${doc%.typ}.pdf (rev $rev, fonts $fonts)"
 done
