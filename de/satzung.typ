@@ -10,9 +10,9 @@
 
 = Präambel
 
-Software prägt unsere Welt, doch all zu oft stellt sie Profit über den Menschen und verbraucht unnötig Ressourcen. EuroZig tritt an, um dem etwas entgegenzusetzen. Als Teil der europäischen Zig-Community stehen wir für eine neue Ära des Systems Programming: Wir unterstützen Menschen dabei, Software zu entwickeln, die schnell, ressourcenschonend und radikal nutzerfreundlich ist.
+Software prägt unsere Welt, doch allzu oft stellt sie Profit über die Menschen und verbraucht unnötig Ressourcen. EuroZig tritt an, um dem etwas entgegenzusetzen. Als Teil der europäischen Zig-Community stehen wir für eine neue Ära der Systemprogrammierung: Wir unterstützen Menschen dabei, Software zu entwickeln, die schnell, ressourcenschonend und radikal nutzerfreundlich ist.
 
-Um diese Vision zu verwirklichen, bieten wir Bildung, Orientierung und eine offene Gemeinschaft. Wir unterstützen Programmiererinnen und Programmierer dabei, exzellentes Handwerk abzuliefern und zeigen Wege für die Entwicklung "ethischer" Software auf, die primär dem Nutzer dient.
+Um diese Vision zu verwirklichen, bieten wir Bildung, Orientierung und eine offene Gemeinschaft. Wir unterstützen Programmiererinnen und Programmierer dabei, exzellentes Handwerk zu leisten, und zeigen Wege für die Entwicklung ethischer Software auf, die primär den Nutzenden dient.
 
 = § 1 Name, Sitz, Geschäftsjahr
 

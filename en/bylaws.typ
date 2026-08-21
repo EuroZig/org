@@ -10,7 +10,9 @@
 
 = Preamble
 
-EuroZig aims to support and facilitate the European Zig community. We do this by providing education and guidance to everyone interested in Zig, teaching programmers to be competent, ethical, and to hold each other to high standards.
+Software shapes our world, yet all too often it puts profit before people and consumes resources needlessly. EuroZig sets out to counter this. As part of the European Zig community, we stand for a new era of systems programming: we support people in developing software that is fast, resource-efficient and radically user-friendly.
+
+To realise this vision, we offer education, guidance and an open community. We support programmers in practising excellent craftsmanship, and we point out ways to develop ethical software that primarily serves its users.
 
 = § 1 Name, seat, financial year
 
