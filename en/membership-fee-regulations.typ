@@ -2,10 +2,10 @@
 // Compile with ../build.sh (which stamps the revision into the footer) or directly with:
 //   typst compile --root .. --input rev=$(git rev-parse --short=8 HEAD) membership-fee-regulations.typ
 //
-// The fee rates, the creditor identifier and the date of the resolution have
-// not been decided yet. They are marked with `tbd` so the typeset PDF keeps
-// showing what the Members' assembly still has to fix; every one of those spots
-// must be replaced before publication. Keep in sync with the German original.
+// The fee rates and the creditor identifier have not been decided yet. They are
+// marked with `tbd` so the typeset PDF keeps showing what the Members' assembly
+// still has to fix; every one of those spots must be replaced before
+// publication. Keep in sync with the German original.
 #import "../templates/bylaws.typ": bylaws-doc
 #import "../templates/eurozig.typ": highlight, ink
 
@@ -112,4 +112,4 @@ Upon written application, the board may defer or waive the fee in whole or in pa
 
 = § 9 Entry into force
 
-These membership fee regulations were adopted by the Members' assembly on #tbd and enter into force on #tbd.
+These membership fee regulations were adopted by the Members' assembly on 13 September 2026 and enter into force on 13 September 2026.

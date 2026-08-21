@@ -2,10 +2,10 @@
 // Revision im Fußzeilen-Stempel) oder direkt mit:
 //   typst compile --root .. --input rev=$(git rev-parse --short=8 HEAD) beitragsordnung.typ
 //
-// Die Beitragssätze, die Gläubiger-Identifikationsnummer und das Beschlussdatum
-// stehen noch nicht fest. Sie sind im Text mit `tbd` markiert, damit im
-// gesetzten PDF sichtbar bleibt, was die Mitgliederversammlung noch festlegen
-// muss; jede dieser Stellen ist vor der Veröffentlichung zu ersetzen.
+// Die Beitragssätze und die Gläubiger-Identifikationsnummer stehen noch nicht
+// fest. Sie sind im Text mit `tbd` markiert, damit im gesetzten PDF sichtbar
+// bleibt, was die Mitgliederversammlung noch festlegen muss; jede dieser
+// Stellen ist vor der Veröffentlichung zu ersetzen.
 #import "../templates/bylaws.typ": bylaws-doc
 #import "../templates/eurozig.typ": highlight, ink
 
@@ -112,4 +112,4 @@ Der Vorstand kann auf schriftlichen Antrag den Beitrag ganz oder teilweise stund
 
 = § 9 Inkrafttreten
 
-Diese Beitragsordnung wurde von der Mitgliederversammlung am #tbd beschlossen und tritt am #tbd in Kraft.
+Diese Beitragsordnung wurde von der Mitgliederversammlung am 13.09.2026 beschlossen und tritt am 13.09.2026 in Kraft.
