@@ -39,6 +39,8 @@ jobs:
             en/bylaws.pdf
             de/beitragsordnung.pdf
             en/membership-fee-regulations.pdf
+            de/verguetungsordnung.pdf
+            en/remuneration-regulations.pdf
           if-no-files-found: error
 
   # On a tag push, attach the built PDFs to a GitHub release. Kept as a separate
@@ -65,6 +67,10 @@ jobs:
           cp pdf/de/beitragsordnung.pdf "EuroZig-Beitragsordnung-$GITHUB_REF_NAME.pdf"
           cp pdf/en/membership-fee-regulations.pdf \
             "EuroZig-Membership-Fee-Regulations-$GITHUB_REF_NAME.pdf"
+          cp pdf/de/verguetungsordnung.pdf \
+            "EuroZig-Verguetungsordnung-$GITHUB_REF_NAME.pdf"
+          cp pdf/en/remuneration-regulations.pdf \
+            "EuroZig-Remuneration-Regulations-$GITHUB_REF_NAME.pdf"
 
       - name: Publish release
         env:
@@ -76,5 +82,7 @@ jobs:
             "EuroZig-Bylaws-$GITHUB_REF_NAME.pdf" \
             "EuroZig-Beitragsordnung-$GITHUB_REF_NAME.pdf" \
             "EuroZig-Membership-Fee-Regulations-$GITHUB_REF_NAME.pdf" \
+            "EuroZig-Verguetungsordnung-$GITHUB_REF_NAME.pdf" \
+            "EuroZig-Remuneration-Regulations-$GITHUB_REF_NAME.pdf" \
             --title "$GITHUB_REF_NAME" \
             --generate-notes
