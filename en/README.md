@@ -1,3 +1,3 @@
 # EuroZig English translation of documents
 
-This folder contains the English translation of the bylaws. The original binding text is in German.
+This folder contains the English translations of the bylaws and the membership fee regulations. The original binding texts are in German.
