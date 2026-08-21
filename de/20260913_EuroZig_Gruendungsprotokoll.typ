@@ -12,9 +12,9 @@
   lang: "de",
 )
 
-Es versammelten sich heute, am 13.09.2026, um TBD Uhr in TBD die in der Anwesenheitsliste (Anlage 1) namentlich und mit Anschrift eingetragenen TBD Personen, um Beschluss über die Gründung des Vereins EuroZig zu fassen.
+Es versammelten sich heute, am 13.09.2026, um 10:15 Uhr in der Perchtinger Straße 8--10, 81379 München, die in der Anwesenheitsliste (Anlage 1) namentlich und mit Anschrift eingetragenen TBD Personen, um Beschluss über die Gründung des Vereins EuroZig zu fassen.
 
-Herr TBD eröffnete die Versammlung um TBD Uhr, begrüßte die Erschienenen und erläuterte den Zweck der Versammlung.
+Herr TBD eröffnete die Versammlung um 10:15 Uhr, begrüßte die Erschienenen und erläuterte den Zweck der Versammlung.
 
 Er erklärte sich bereit die Versammlungsleitung zu übernehmen. Dem stimmten die Anwesenden durch Zuruf einstimmig zu. Zum Protokollführer wurde durch Zuruf Herr TBD gewählt, der das Amt annahm.
 
