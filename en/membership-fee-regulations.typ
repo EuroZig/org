@@ -16,15 +16,7 @@
 
 #let tbd = text(fill: highlight, weight: 700, "[ … ]")
 
-= § 1 Legal basis and scope
-
-+ These membership fee regulations are enacted by the Members' assembly in accordance with § 5 (5) of the Bylaws. They govern the amount, the due date and the means of payment of the membership fees.
-
-+ These regulations are not part of the Bylaws. In case of a contradiction between the Bylaws and these regulations, the Bylaws prevail.
-
-+ The version currently in force is published on the association's website.
-
-= § 2 Obligation to pay
+= § 1 Obligation to pay
 
 + Every member is obliged to pay an annual membership fee.
 
@@ -32,7 +24,7 @@
 
 + The obligation to pay begins with the month in which the board grants the application for membership and ends when the membership ends.
 
-= § 3 Amount of the fees
+= § 2 Amount of the fees
 
 + The annual membership fee is:
 
@@ -62,15 +54,15 @@
 
 + All amounts are denominated in euro.
 
-= § 4 Due date
+= § 3 Due date
 
-+ The fee is payable in advance. The payment dates follow from the means of payment chosen by the member under § 5.
++ The fee is payable in advance. The payment dates follow from the means of payment chosen by the member under § 4.
 
 + If a member joins during a fee year, one twelfth of the annual fee is payable for each month of membership begun in that year.
 
 + If the membership ends during a fee year, fees already paid are not refunded.
 
-= § 5 Means of payment
+= § 4 Means of payment
 
 + With the application for membership, every member chooses
 
@@ -88,17 +80,17 @@
 
 + Payment by credit transfer is made to the association's account, stating the member's name and membership number as the payment reference. The amount must be credited to the association no later than on the due date.
 
-+ In the year of joining, the pro-rata fee under § 4 (2) is payable as a single sum. Where payment is by credit transfer, it is due 14 days after the application for membership has been granted; where payment is by SEPA direct debit, it is collected on the next date under paragraph 2.
++ In the year of joining, the pro-rata fee under § 3 (2) is payable as a single sum. Where payment is by credit transfer, it is due 14 days after the application for membership has been granted; where payment is by SEPA direct debit, it is collected on the next date under paragraph 2.
 
 + By way of derogation from paragraphs 1 to 6, members holding a payment account outside the SEPA area pay the annual fee in advance through a payment service provider designated by the board and published on the association's website. Payment is made in euro; the association must be credited with the full amount of the fee. Charges of the payment service provider, transfer charges of other institutions and the cost of currency conversion are borne by the member.
 
 + In justified individual cases, the board may admit another means of payment.
 
-= § 6 Duty to notify
+= § 5 Duty to notify
 
 Changes of bank details, postal address and e-mail address must be communicated to the board in text form without undue delay. Costs incurred by the association because such a notification was omitted are borne by the member.
 
-= § 7 Default of payment and returned debits
+= § 6 Default of payment and returned debits
 
 + If a member does not pay a fee that has fallen due, the board issues a reminder in text form setting a reasonable deadline.
 
@@ -106,10 +98,10 @@ Changes of bank details, postal address and e-mail address must be communicated 
 
 + The right to expel a member for outstanding fees under § 3 (6) b of the Bylaws remains unaffected.
 
-= § 8 Deferral and waiver
+= § 7 Deferral and waiver
 
 Upon written application, the board may defer or waive the fee in whole or in part if paying it would cause undue hardship to the member. Such a decision applies to one fee year at a time.
 
-= § 9 Entry into force
+= § 8 Entry into force
 
 These membership fee regulations were adopted by the Members' assembly on 13 September 2026 and enter into force on 13 September 2026.

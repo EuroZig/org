@@ -16,15 +16,7 @@
 
 #let tbd = text(fill: highlight, weight: 700, "[ … ]")
 
-= § 1 Grundlage und Geltungsbereich
-
-+ Diese Beitragsordnung wird gemäß § 5 Abs. 5 der Satzung von der Mitgliederversammlung erlassen. Sie regelt Höhe, Fälligkeit und Zahlungsweise der Mitgliedsbeiträge.
-
-+ Die Beitragsordnung ist nicht Bestandteil der Satzung. Bei Widersprüchen zwischen Satzung und Beitragsordnung geht die Satzung vor.
-
-+ Die jeweils geltende Fassung wird auf der Website des Vereins veröffentlicht.
-
-= § 2 Beitragspflicht
+= § 1 Beitragspflicht
 
 + Jedes Mitglied ist zur Zahlung eines Jahresbeitrags verpflichtet.
 
@@ -32,7 +24,7 @@
 
 + Die Beitragspflicht beginnt mit dem Monat, in dem der Vorstand den Aufnahmeantrag annimmt, und endet mit dem Ende der Mitgliedschaft.
 
-= § 3 Höhe der Beiträge
+= § 2 Höhe der Beiträge
 
 + Der Jahresbeitrag beträgt:
 
@@ -62,15 +54,15 @@
 
 + Alle Beträge verstehen sich in Euro.
 
-= § 4 Fälligkeit
+= § 3 Fälligkeit
 
-+ Der Beitrag ist im Voraus zu zahlen. Die Zahlungstermine ergeben sich aus der vom Mitglied nach § 5 gewählten Zahlungsweise.
++ Der Beitrag ist im Voraus zu zahlen. Die Zahlungstermine ergeben sich aus der vom Mitglied nach § 4 gewählten Zahlungsweise.
 
 + Tritt ein Mitglied im Laufe eines Beitragsjahres bei, so ist für dieses Jahr ein Zwölftel des Jahresbeitrags für jeden angefangenen Monat der Mitgliedschaft zu zahlen.
 
 + Endet die Mitgliedschaft im Laufe eines Beitragsjahres, so werden bereits gezahlte Beiträge nicht erstattet.
 
-= § 5 Zahlungsweise
+= § 4 Zahlungsweise
 
 + Jedes Mitglied wählt mit dem Aufnahmeantrag
 
@@ -88,17 +80,17 @@
 
 + Die Zahlung durch Überweisung erfolgt auf das Konto des Vereins unter Angabe des Namens und der Mitgliedsnummer im Verwendungszweck. Der Betrag muss dem Verein spätestens am Fälligkeitstag gutgeschrieben sein.
 
-+ Im Jahr des Beitritts ist der anteilige Beitrag nach § 4 Abs. 2 in einer Summe zu zahlen. Bei Zahlung durch Überweisung ist er 14 Tage nach der Annahme des Aufnahmeantrags fällig; bei Zahlung durch SEPA-Lastschrift wird er zum nächsten Termin nach Absatz 2 eingezogen.
++ Im Jahr des Beitritts ist der anteilige Beitrag nach § 3 Abs. 2 in einer Summe zu zahlen. Bei Zahlung durch Überweisung ist er 14 Tage nach der Annahme des Aufnahmeantrags fällig; bei Zahlung durch SEPA-Lastschrift wird er zum nächsten Termin nach Absatz 2 eingezogen.
 
 + Mitglieder mit einem Zahlungskonto außerhalb des SEPA-Raums zahlen abweichend von den Absätzen 1 bis 6 den Jahresbeitrag jährlich im Voraus über einen vom Vorstand benannten und auf der Website veröffentlichten Zahlungsdienstleister. Die Zahlung erfolgt in Euro; dem Verein muss der volle Beitrag gutgeschrieben werden. Entgelte des Zahlungsdienstleisters, Überweisungsentgelte fremder Institute und Kosten der Währungsumrechnung trägt das Mitglied.
 
 + Der Vorstand kann in begründeten Einzelfällen einen anderen Zahlungsweg zulassen.
 
-= § 6 Mitteilungspflichten
+= § 5 Mitteilungspflichten
 
 Änderungen der Bankverbindung, der Anschrift und der E-Mail-Adresse sind dem Vorstand unverzüglich in Textform mitzuteilen. Kosten, die dem Verein durch eine unterbliebene Mitteilung entstehen, trägt das Mitglied.
 
-= § 7 Zahlungsverzug und Rücklastschriften
+= § 6 Zahlungsverzug und Rücklastschriften
 
 + Zahlt ein Mitglied den fälligen Beitrag nicht, so mahnt der Vorstand in Textform unter Setzung einer angemessenen Frist.
 
@@ -106,10 +98,10 @@
 
 + Das Recht zum Ausschluss wegen Beitragsrückständen nach § 3 Abs. 6 lit. b der Satzung bleibt unberührt.
 
-= § 8 Stundung und Erlass
+= § 7 Stundung und Erlass
 
 Der Vorstand kann auf schriftlichen Antrag den Beitrag ganz oder teilweise stunden oder erlassen, wenn seine Zahlung für das Mitglied eine unbillige Härte bedeuten würde. Die Entscheidung gilt jeweils für ein Beitragsjahr.
 
-= § 9 Inkrafttreten
+= § 8 Inkrafttreten
 
 Diese Beitragsordnung wurde von der Mitgliederversammlung am 13.09.2026 beschlossen und tritt am 13.09.2026 in Kraft.
