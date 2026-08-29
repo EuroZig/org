@@ -2,10 +2,10 @@
 // Revision im Fußzeilen-Stempel) oder direkt mit:
 //   typst compile --root .. --input rev=$(git rev-parse --short=8 HEAD) beitragsordnung.typ
 //
-// Die Beitragssätze und die Gläubiger-Identifikationsnummer stehen noch nicht
-// fest. Sie sind im Text mit `tbd` markiert, damit im gesetzten PDF sichtbar
-// bleibt, was die Mitgliederversammlung noch festlegen muss; jede dieser
-// Stellen ist vor der Veröffentlichung zu ersetzen.
+// Die Beitragssätze stehen noch nicht fest. Sie sind im Text mit `tbd`
+// markiert, damit im gesetzten PDF sichtbar bleibt, was die
+// Mitgliederversammlung noch festlegen muss; jede dieser Stellen ist vor der
+// Veröffentlichung zu ersetzen.
 #import "../templates/bylaws.typ": bylaws-doc
 #import "../templates/eurozig.typ": highlight, ink
 
@@ -58,7 +58,7 @@
 
 + Den ermäßigten Beitrag erhalten auf Antrag Schülerinnen und Schüler, Studierende, Auszubildende, Personen im Freiwilligendienst, Erwerbslose sowie Personen in vergleichbar eingeschränkten wirtschaftlichen Verhältnissen. Der Vorstand kann einen Nachweis verlangen. Die Ermäßigung gilt jeweils für das laufende Beitragsjahr; entfallen ihre Voraussetzungen, teilt das Mitglied dies dem Vorstand mit.
 
-+ Fördernde Mitglieder können jederzeit einen höheren als den Mindestbeitrag zusagen. Das Gleiche gilt für ordentliche Mitglieder.
++ Mitglieder können jederzeit einen höheren als den Mindestbeitrag zusagen.
 
 + Alle Beträge verstehen sich in Euro.
 
@@ -78,13 +78,13 @@
 
   + zwischen jährlicher und vierteljährlicher Zahlung.
 
-  Die Wahl kann in Textform geändert werden; die Änderung wirkt ab dem folgenden Beitragsjahr. Trifft ein Mitglied keine Wahl, so zahlt es jährlich durch Überweisung.
+  Die Wahl kann in Textform geändert werden; die Änderung wirkt ab dem folgenden Beitragsjahr. Trifft ein Mitglied keine Wahl, so zahlt es jährlich durch SEPA-Lastschrift.
 
 + Bei jährlicher Zahlung ist der Jahresbeitrag zum 15. Januar des Beitragsjahres zu zahlen. Bei vierteljährlicher Zahlung ist er in vier gleichen Teilbeträgen jeweils zum 15. Januar, 15. April, 15. Juli und 15. Oktober zu zahlen. Fällt einer dieser Tage auf einen Samstag, Sonntag oder gesetzlichen Feiertag am Sitz des Vereins, so tritt der nächste Bankarbeitstag an seine Stelle.
 
 + Die Zahlung durch SEPA-Lastschrift setzt ein auf Euro lautendes Zahlungskonto voraus, das für SEPA-Basislastschriften erreichbar ist. Das Mitglied erteilt dem Verein hierzu ein SEPA-Lastschriftmandat (Einzugsermächtigung) in Textform. Der Einzug erfolgt zu den in Absatz 2 genannten Terminen. Bei einem Zahlungskonto außerhalb des Europäischen Wirtschaftsraums ist im Mandat zusätzlich die Anschrift des Mitglieds anzugeben.
 
-+ Die Gläubiger-Identifikationsnummer des Vereins lautet #tbd. Die Mandatsreferenz wird dem Mitglied mit der Aufnahmebestätigung mitgeteilt. Die Vorabankündigung (Pre-Notification) erfolgt einmalig für alle wiederkehrenden Einzüge mit der Aufnahmebestätigung, bei Änderungen von Betrag oder Termin erneut; die Ankündigungsfrist wird auf fünf Kalendertage vor dem Einzug verkürzt.
++ Die Mandatsreferenz wird dem Mitglied mit der Aufnahmebestätigung mitgeteilt. Die Vorabankündigung (Pre-Notification) erfolgt einmalig für alle wiederkehrenden Einzüge mit der Aufnahmebestätigung, bei Änderungen von Betrag oder Termin erneut; die Ankündigungsfrist wird auf fünf Kalendertage vor dem Einzug verkürzt.
 
 + Die Zahlung durch Überweisung erfolgt auf das Konto des Vereins unter Angabe des Namens und der Mitgliedsnummer im Verwendungszweck. Der Betrag muss dem Verein spätestens am Fälligkeitstag gutgeschrieben sein.
 

@@ -2,10 +2,10 @@
 // Compile with ../build.sh (which stamps the revision into the footer) or directly with:
 //   typst compile --root .. --input rev=$(git rev-parse --short=8 HEAD) membership-fee-regulations.typ
 //
-// The fee rates and the creditor identifier have not been decided yet. They are
-// marked with `tbd` so the typeset PDF keeps showing what the Members' assembly
-// still has to fix; every one of those spots must be replaced before
-// publication. Keep in sync with the German original.
+// The fee rates have not been decided yet. They are marked with `tbd` so the
+// typeset PDF keeps showing what the Members' assembly still has to fix; every
+// one of those spots must be replaced before publication. Keep in sync with the
+// German original.
 #import "../templates/bylaws.typ": bylaws-doc
 #import "../templates/eurozig.typ": highlight, ink
 
@@ -58,7 +58,7 @@
 
 + The reduced rate is granted on application to pupils, students, apprentices, persons in a voluntary service, unemployed persons and persons in comparably limited economic circumstances. The board may request evidence. The reduction applies to the current fee year; if the conditions for it cease to apply, the member informs the board.
 
-+ Supporting members may at any time commit to a fee higher than the minimum. The same applies to regular members.
++ Members may at any time commit to a fee higher than the minimum.
 
 + All amounts are denominated in euro.
 
@@ -78,13 +78,13 @@
 
   + between annual and quarterly payment.
 
-  The choice may be changed in text form; the change takes effect from the following fee year. If a member makes no choice, they pay annually by credit transfer.
+  The choice may be changed in text form; the change takes effect from the following fee year. If a member makes no choice, they pay annually by direct debit.
 
 + Where payment is annual, the annual fee is payable on 15 January of the fee year. Where payment is quarterly, it is payable in four equal instalments on 15 January, 15 April, 15 July and 15 October. If one of these days falls on a Saturday, a Sunday or a public holiday at the seat of the association, the next banking day takes its place.
 
 + Payment by SEPA direct debit requires a euro-denominated payment account that is reachable for SEPA Core Direct Debit. For this purpose the member grants the association a SEPA direct debit mandate (Einzugsermächtigung) in text form. The debit is collected on the dates set out in paragraph 2. Where the payment account is held outside the European Economic Area, the mandate must additionally state the member's postal address.
 
-+ The creditor identifier of the association is #tbd. The mandate reference is communicated to the member together with the confirmation of membership. The pre-notification is given once for all recurring debits together with that confirmation, and again whenever the amount or the date changes; the pre-notification period is shortened to five calendar days before the debit.
++ The mandate reference is communicated to the member together with the confirmation of membership. The pre-notification is given once for all recurring debits together with that confirmation, and again whenever the amount or the date changes; the pre-notification period is shortened to five calendar days before the debit.
 
 + Payment by credit transfer is made to the association's account, stating the member's name and membership number as the payment reference. The amount must be credited to the association no later than on the due date.
 
