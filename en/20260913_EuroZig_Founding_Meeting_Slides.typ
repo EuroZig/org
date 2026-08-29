@@ -44,3 +44,17 @@
   - Reduced rate on application; deferral or waiver in cases of hardship
 ]
 
+#slide(title: "Remuneration Regulations")[
+  Agenda item 8 — adoption of the regulations on expenses and remuneration.
+
+  - Offices stay honorary; the regulations cover the reimbursement of expenses first
+  - Necessary expenses are reimbursed as of right (#sym.section\u{a0}670 BGB); travel and
+    meals at the statutory rates
+  - Lump-sum allowances up to the instructor and volunteer allowances
+    ("Übungsleiter-" and "Ehrenamtspauschale"), only on a prior written award
+  - Together with contract remuneration, capped at 3,000 euro per person and year
+  - The Members' assembly resolves an annual budget; without one, no such payments --
+    and it alone decides on payments to board members
+  - Claims within three months, with receipts, paid by credit transfer; all payments
+    are disclosed in the annual report
+]
