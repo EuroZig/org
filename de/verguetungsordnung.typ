@@ -13,21 +13,7 @@
   lang: "de",
 )
 
-= § 1 Grundlage und Geltungsbereich
-
-+ Diese Vergütungsordnung wird gemäß § 5 Abs. 6 der Satzung von der Mitgliederversammlung erlassen. Sie regelt den Ersatz von Aufwendungen und die Vergütung von Tätigkeiten, die im Namen des Vereins ausgeübt werden (§ 3 Abs. 9 und § 6 Abs. 5 der Satzung).
-
-+ Sie gilt für ordentliche Mitglieder einschließlich der Vorstandsmitglieder. Für fördernde Mitglieder und für Nichtmitglieder gilt § 7.
-
-+ Die Vereins- und Organämter werden gemäß § 6 Abs. 5 der Satzung grundsätzlich ehrenamtlich ausgeübt. Eine entgeltliche Ausübung von Vereins- und Organämtern setzt zusätzlich zu dieser Ordnung einen Beschluss der Mitgliederversammlung nach § 6 Abs. 5 der Satzung voraus.
-
-+ Auf den Ersatz von Aufwendungen nach §§ 3 und 4 besteht ein Anspruch. Auf Vergütungen und pauschale Aufwandsentschädigungen nach §§ 5 und 6 besteht kein Anspruch; sie werden nur aufgrund einer Bewilligung nach § 8 gewährt.
-
-+ Diese Vergütungsordnung ist nicht Bestandteil der Satzung. Bei Widersprüchen zwischen Satzung und Vergütungsordnung geht die Satzung vor.
-
-+ Die jeweils geltende Fassung wird auf der Website des Vereins veröffentlicht. Maßgeblich ist die deutsche Fassung; die englische Fassung ist eine Übersetzung.
-
-= § 2 Grundsätze
+= § 1 Grundsätze
 
 + Leistungen nach dieser Ordnung werden nur für tatsächlich erbrachte Tätigkeiten und für tatsächlich entstandene Aufwendungen gewährt. Die Tätigkeit muss der Verwirklichung der satzungsmäßigen Zwecke dienen.
 
@@ -37,7 +23,7 @@
 
 + Für die Versteuerung der ihnen zufließenden Beträge sind die Empfängerinnen und Empfänger selbst verantwortlich. Der Verein behält Steuern und Sozialabgaben ein und führt sie ab, soweit er gesetzlich dazu verpflichtet ist.
 
-= § 3 Ersatz von Aufwendungen
+= § 2 Ersatz von Aufwendungen
 
 + Wer für den Verein tätig wird, hat Anspruch auf Ersatz der Aufwendungen, die dabei entstehen und die den Umständen nach erforderlich sind (§ 670 BGB).
 
@@ -45,11 +31,11 @@
 
 + Nicht ersatzfähig sind Aufwendungen der privaten Lebensführung, Geldbußen, Geldstrafen und Verwarnungsgelder sowie Aufwendungen, die einer Person ohnehin entstanden wären.
 
-+ Die Anschaffung von Gegenständen mit einem Wert von mehr als der Schwelle nach § 8 Abs. 3 erfolgt auf Rechnung des Vereins. Diese Gegenstände sind Eigentum des Vereins.
++ Die Anschaffung von Gegenständen mit einem Wert von mehr als der Schwelle nach § 7 Abs. 3 erfolgt auf Rechnung des Vereins. Diese Gegenstände sind Eigentum des Vereins.
 
-= § 4 Reisekosten
+= § 3 Reisekosten
 
-+ Reisen, die im Auftrag des Vereins oder zur Wahrnehmung eines Amtes unternommen werden, werden nach den folgenden Absätzen erstattet. § 8 Abs. 3 bleibt unberührt.
++ Reisen, die im Auftrag des Vereins oder zur Wahrnehmung eines Amtes unternommen werden, werden nach den folgenden Absätzen erstattet. § 7 Abs. 3 bleibt unberührt.
 
 + Bahnfahrten werden in der zweiten Wagenklasse erstattet. Die Kosten einer Ermäßigungskarte werden anteilig oder vollständig erstattet, soweit sich die Karte durch die für den Verein unternommenen Fahrten voraussichtlich amortisiert. Örtlicher Nahverkehr wird in tatsächlicher Höhe erstattet.
 
@@ -65,7 +51,7 @@
 
 + Der Verein trägt keine Kosten für privat veranlasste Verlängerungen einer Reise und keine Mehrkosten, die durch die Mitreise privater Begleitpersonen entstehen.
 
-= § 5 Pauschale Aufwandsentschädigungen
+= § 4 Pauschale Aufwandsentschädigungen
 
 + Der Verein kann für nebenberufliche Tätigkeiten pauschale Aufwandsentschädigungen gewähren, und zwar
 
@@ -77,35 +63,35 @@
 
 + Nebenberuflich ist eine Tätigkeit, die zeitlich nicht mehr als ein Drittel einer vergleichbaren Vollzeitstelle in Anspruch nimmt.
 
-+ Eine pauschale Aufwandsentschädigung setzt eine vorherige Bewilligung nach § 8 in Textform voraus, die die Tätigkeit, den Zeitraum und die Höhe bezeichnet. Für bereits abgeschlossene Zeiträume wird sie nicht rückwirkend bewilligt.
++ Eine pauschale Aufwandsentschädigung setzt eine vorherige Bewilligung nach § 7 in Textform voraus, die die Tätigkeit, den Zeitraum und die Höhe bezeichnet. Für bereits abgeschlossene Zeiträume wird sie nicht rückwirkend bewilligt.
 
 + Die Freibeträge nach § 3 Nr. 26 EStG und § 3 Nr. 26a EStG dürfen für dieselbe Tätigkeit nicht nebeneinander in Anspruch genommen werden. Die Freibeträge sind personen- und jahresbezogen; wer sie ganz oder teilweise bereits bei einer anderen Körperschaft ausschöpft, teilt dies dem Vorstand vor der Bewilligung in Textform mit.
 
-+ Der Ersatz von Aufwendungen und Reisekosten nach §§ 3 und 4 kann neben einer pauschalen Aufwandsentschädigung gewährt werden.
++ Der Ersatz von Aufwendungen und Reisekosten nach §§ 2 und 3 kann neben einer pauschalen Aufwandsentschädigung gewährt werden.
 
-+ Alle Leistungen nach §§ 5 und 6 zusammen dürfen je Person 3.000 Euro im Kalenderjahr nicht übersteigen. Der Ersatz von Aufwendungen und Reisekosten nach §§ 3 und 4 wird auf diesen Betrag nicht angerechnet.
++ Alle Leistungen nach §§ 4 und 5 zusammen dürfen je Person 3.000 Euro im Kalenderjahr nicht übersteigen. Der Ersatz von Aufwendungen und Reisekosten nach §§ 2 und 3 wird auf diesen Betrag nicht angerechnet.
 
-= § 6 Dienst-, Arbeits- und Werkverträge
+= § 5 Dienst-, Arbeits- und Werkverträge
 
 + Der Verein kann Tätigkeiten auf der Grundlage eines Dienst-, Arbeits- oder Werkvertrages vergüten. Betrifft der Vertrag ein Vereins- oder Organamt, so ist zusätzlich ein Beschluss der Mitgliederversammlung nach § 6 Abs. 5 der Satzung erforderlich.
 
 + Verträge nach Absatz 1 bedürfen der Textform. Sie bezeichnen die geschuldete Leistung, den Zeitraum, die Vergütung und die Kündigungsmöglichkeiten. Sie werden nicht rückwirkend geschlossen.
 
-+ Die Vergütung muss marktüblich und angemessen im Sinne des § 2 Abs. 2 sein. Vor Abschluss eines Vertrages mit einem Mitglied ist zu prüfen und zu dokumentieren, welche Vergütung ein Dritter für eine vergleichbare Leistung erhalten hätte.
++ Die Vergütung muss marktüblich und angemessen im Sinne des § 1 Abs. 2 sein. Vor Abschluss eines Vertrages mit einem Mitglied ist zu prüfen und zu dokumentieren, welche Vergütung ein Dritter für eine vergleichbare Leistung erhalten hätte.
 
-+ Eine Vergütung nach diesem Paragraphen und eine pauschale Aufwandsentschädigung nach § 5 dürfen für dieselbe Tätigkeit nicht nebeneinander gewährt werden.
++ Eine Vergütung nach diesem Paragraphen und eine pauschale Aufwandsentschädigung nach § 4 dürfen für dieselbe Tätigkeit nicht nebeneinander gewährt werden.
 
-= § 7 Leistungen an fördernde Mitglieder und an Nichtmitglieder
+= § 6 Leistungen an fördernde Mitglieder und an Nichtmitglieder
 
-+ Vergütungen an fördernde Mitglieder und an Nichtmitglieder werden ausschließlich auf vertraglicher Grundlage nach § 6 gewährt. § 5 findet auf sie keine Anwendung.
++ Vergütungen an fördernde Mitglieder und an Nichtmitglieder werden ausschließlich auf vertraglicher Grundlage nach § 5 gewährt. § 4 findet auf sie keine Anwendung.
 
-+ § 2 (Grundsätze), § 8 (Verfahren) und § 10 (Transparenz und Kontrolle) gelten entsprechend.
++ § 1 (Grundsätze), § 7 (Verfahren) und § 9 (Transparenz und Kontrolle) gelten entsprechend.
 
-+ Aufwendungen und Reisekosten von Personen, die auf Einladung des Vereins tätig werden, insbesondere von Vortragenden und Lehrenden, werden nach §§ 3 und 4 erstattet, wenn der Vorstand die Erstattung vorher zugesagt hat.
++ Aufwendungen und Reisekosten von Personen, die auf Einladung des Vereins tätig werden, insbesondere von Vortragenden und Lehrenden, werden nach §§ 2 und 3 erstattet, wenn der Vorstand die Erstattung vorher zugesagt hat.
 
-= § 8 Budget, Zuständigkeit und Verfahren
+= § 7 Budget, Zuständigkeit und Verfahren
 
-+ Die Mitgliederversammlung beschließt jährlich mit dem Haushalt ein Gesamtbudget für Leistungen nach §§ 5 und 6. Ohne ein solches Budget dürfen Leistungen nach §§ 5 und 6 nicht gewährt werden. Der Ersatz von Aufwendungen und Reisekosten nach §§ 3 und 4 wird auf das Budget nicht angerechnet.
++ Die Mitgliederversammlung beschließt jährlich mit dem Haushalt ein Gesamtbudget für Leistungen nach §§ 4 und 5. Ohne ein solches Budget dürfen Leistungen nach §§ 4 und 5 nicht gewährt werden. Der Ersatz von Aufwendungen und Reisekosten nach §§ 2 und 3 wird auf das Budget nicht angerechnet.
 
 + Über Leistungen an Mitglieder entscheidet der Vorstand im Rahmen des Budgets. Über Vergütungen und pauschale Aufwandsentschädigungen an Vorstandsmitglieder entscheidet ausschließlich die Mitgliederversammlung.
 
@@ -119,7 +105,7 @@
 
 + Die Auszahlung erfolgt durch Überweisung auf ein von der berechtigten Person benanntes Konto. Barauszahlungen finden nicht statt.
 
-= § 9 Verzicht und Aufwandsspende
+= § 8 Verzicht und Aufwandsspende
 
 + Auf einen Anspruch nach dieser Ordnung kann verzichtet werden. Der Verzicht ist in Textform zu erklären und erst zulässig, nachdem der Anspruch entstanden ist.
 
@@ -127,7 +113,7 @@
 
 + Über einen Verzicht stellt der Verein eine Zuwendungsbestätigung über eine Geldspende aus, wenn er im Zeitpunkt der Einräumung des Anspruchs wirtschaftlich in der Lage war, den Anspruch zu erfüllen (§ 10b Abs. 3 EStG). Ist er dazu nicht in der Lage, so weist er die betroffene Person vor der Tätigkeit darauf hin.
 
-= § 10 Transparenz und Kontrolle
+= § 9 Transparenz und Kontrolle
 
 + Der Vorstand führt fortlaufend Aufzeichnungen über alle Leistungen nach dieser Ordnung. Die Aufzeichnungen weisen Empfänger, Rechtsgrund, Zeitraum und Betrag aus.
 
@@ -135,6 +121,6 @@
 
 + Im Jahresbericht weist der Vorstand die Leistungen nach dieser Ordnung aus, und zwar zusammengefasst nach Vergütungsart. Vergütungen und pauschale Aufwandsentschädigungen an Vorstandsmitglieder werden gesondert je Amt betragsmäßig ausgewiesen; Namen werden dabei nicht genannt.
 
-= § 11 Inkrafttreten
+= § 10 Inkrafttreten
 
 Diese Vergütungsordnung wurde von der Mitgliederversammlung am 13.09.2026 beschlossen und tritt am 13.09.2026 in Kraft.
