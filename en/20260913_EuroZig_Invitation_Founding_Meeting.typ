@@ -31,41 +31,15 @@ bylaws becomes a founding member and votes on all resolutions taken that day.
 
 = Agenda
 
-Before entering the agenda:
 
-- Opening of the meeting and welcome
-- Determination of attendance and entry in the attendance list
-- Election of the chair of the meeting and of the keeper of the minutes
-- Announcement and adoption of the agenda
-
-The agenda then follows:
-
-+ *Discussion and adoption of the bylaws*
-  - Presentation of the draft bylaws and discussion
-  - Resolution on founding the association and on the bylaws
-  - Signing of the bylaws by the founding members
-
-+ *Election of the three board members and of the auditor*
-  - Election of the three board members (§ 6 (1) of the bylaws)
-  - Election of the auditor (§ 5 (4) of the bylaws)
-  - Constitution of the board: election of the chairperson, the second chairperson
-    and the treasurer (§ 6 (2) of the bylaws)
-
-+ *Setting the membership fees and adoption of the membership fee regulations*
-  - Presentation of the proposed annual fees, discussion and resolution on the fees
-    and on the membership fee regulations (§ 5 (5) of the bylaws)
-
-+ *Adoption of the remuneration regulations*
-  - Presentation, discussion and resolution on the remuneration regulations
-    (§ 5 (6) of the bylaws)
-
-+ *Organisational matters*
-  - Authorisation of the board to make those amendments to the bylaws that the
-    register of associations or the tax office requires for registration and
-    non-profit status
-  - Registration with the register of associations and application for non-profit status
-  - Setting up the association's bank account and further organisational matters
-
++ Opening of the meeting and welcome
++ Determination of attendance and entry in the attendance list
++ Election of the chair of the meeting and of the keeper of the minutes
++ Announcement and adoption of the agenda
++ Discussion and adoption of the bylaws
++ Election of the three board members and of the auditor
++ Setting the membership fees and adoption of the membership fee regulations
++ Adoption of the remuneration regulations
 + *Any other business* -- discussion of the future direction and activities of the
   association, followed by the closing of the meeting
 
