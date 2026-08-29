@@ -17,13 +17,12 @@
 
 = § 1 Principles
 
-+ Payments under these regulations are made only for activities actually performed and for expenses actually incurred. The activity must serve the realisation of the association's statutory purposes.
++ Payments under these regulations are made only for activities actually performed and for expenses actually incurred.
 
-+ All payments must be reasonable. They may not exceed what the association would have to pay a third party for a comparable service. No person may be favoured by disproportionately high remuneration (§ 2 (4) of the Bylaws, § 55 Abs. 1 Nr. 3 AO).
++ All payments must be reasonable. They may not exceed what the association would have to pay a third party for a comparable service.
 
 + Payments under these regulations are subject to the budgetary situation and to the funds available.
 
-+ Recipients are themselves responsible for the taxation of the amounts they receive. The association withholds and remits taxes and social security contributions to the extent that it is legally obliged to do so.
 
 = § 2 Reimbursement of expenses
 
@@ -67,7 +66,7 @@
 
 + A lump-sum expense allowance requires a prior award under § 7 in text form, stating the activity, the period and the amount. It is not awarded retroactively for periods that have already ended.
 
-+ The tax-free allowances under § 3 Nr. 26 EStG and § 3 Nr. 26a EStG may not be claimed alongside each other for the same activity. The allowances relate to the person and to the calendar year; anyone who already uses them in whole or in part at another organisation informs the board of this in text form before the award is made.
++ The tax-free allowances under § 3 Nr. 26 EStG and § 3 Nr. 26a EStG relate to the person and to the calendar year; anyone who already uses them in whole or in part at another organisation informs the board of this in text form before the award is made.
 
 + The reimbursement of expenses and travel costs under §§ 2 and 3 may be granted in addition to a lump-sum expense allowance.
 
@@ -75,7 +74,7 @@
 
 = § 5 Service, employment and contracts for work
 
-+ The association may remunerate activities on the basis of a service contract, an employment contract or a contract for work. Where the contract concerns an office of the association or of one of its bodies, a resolution of the Members' assembly under § 6 (5) of the Bylaws is additionally required.
++ The association may remunerate activities on the basis of a service contract, an employment contract or a contract for work.
 
 + Contracts under paragraph 1 require text form. They state the service owed, the period, the remuneration and the possibilities of termination. They are not concluded retroactively.
 
@@ -103,7 +102,7 @@
 
 + Payments are granted upon application in text form. The application must be made within three months, counted from the moment the expense is incurred, from the end of the journey, or from the end of the period for which an expense allowance is sought. After that period has elapsed, the claim is excluded.
 
-+ Receipts must be attached to the application. Digital receipts suffice; the association retains them in accordance with the applicable tax rules. For expenses of up to 15 euro, a self-issued receipt stating the occasion, the date, the amount and the payee suffices.
++ Receipts must be attached to the application. Digital receipts suffice. For expenses of up to 15 euro, a self-issued receipt stating the occasion, the date, the amount and the payee suffices.
 
 + Payment is made by credit transfer to an account named by the entitled person. No payments are made in cash.
 

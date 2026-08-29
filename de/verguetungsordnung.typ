@@ -15,13 +15,12 @@
 
 = § 1 Grundsätze
 
-+ Leistungen nach dieser Ordnung werden nur für tatsächlich erbrachte Tätigkeiten und für tatsächlich entstandene Aufwendungen gewährt. Die Tätigkeit muss der Verwirklichung der satzungsmäßigen Zwecke dienen.
++ Leistungen nach dieser Ordnung werden nur für tatsächlich erbrachte Tätigkeiten und für tatsächlich entstandene Aufwendungen gewährt.
 
-+ Alle Leistungen müssen angemessen sein. Sie dürfen nicht höher sein als das, was der Verein einem Dritten für eine vergleichbare Leistung zahlen müsste. Niemand darf durch unverhältnismäßig hohe Vergütungen begünstigt werden (§ 2 Abs. 4 der Satzung, § 55 Abs. 1 Nr. 3 AO).
++ Alle Leistungen müssen angemessen sein. Sie dürfen nicht höher sein als das, was der Verein einem Dritten für eine vergleichbare Leistung zahlen müsste.
 
 + Leistungen nach dieser Ordnung stehen unter dem Vorbehalt der Haushaltslage und der zur Verfügung stehenden Mittel.
 
-+ Für die Versteuerung der ihnen zufließenden Beträge sind die Empfängerinnen und Empfänger selbst verantwortlich. Der Verein behält Steuern und Sozialabgaben ein und führt sie ab, soweit er gesetzlich dazu verpflichtet ist.
 
 = § 2 Ersatz von Aufwendungen
 
@@ -65,7 +64,7 @@
 
 + Eine pauschale Aufwandsentschädigung setzt eine vorherige Bewilligung nach § 7 in Textform voraus, die die Tätigkeit, den Zeitraum und die Höhe bezeichnet. Für bereits abgeschlossene Zeiträume wird sie nicht rückwirkend bewilligt.
 
-+ Die Freibeträge nach § 3 Nr. 26 EStG und § 3 Nr. 26a EStG dürfen für dieselbe Tätigkeit nicht nebeneinander in Anspruch genommen werden. Die Freibeträge sind personen- und jahresbezogen; wer sie ganz oder teilweise bereits bei einer anderen Körperschaft ausschöpft, teilt dies dem Vorstand vor der Bewilligung in Textform mit.
++ Die Freibeträge nach § 3 Nr. 26 EStG und § 3 Nr. 26a EStG sind personen- und jahresbezogen; wer sie ganz oder teilweise bereits bei einer anderen Körperschaft ausschöpft, teilt dies dem Vorstand vor der Bewilligung in Textform mit.
 
 + Der Ersatz von Aufwendungen und Reisekosten nach §§ 2 und 3 kann neben einer pauschalen Aufwandsentschädigung gewährt werden.
 
@@ -73,7 +72,7 @@
 
 = § 5 Dienst-, Arbeits- und Werkverträge
 
-+ Der Verein kann Tätigkeiten auf der Grundlage eines Dienst-, Arbeits- oder Werkvertrages vergüten. Betrifft der Vertrag ein Vereins- oder Organamt, so ist zusätzlich ein Beschluss der Mitgliederversammlung nach § 6 Abs. 5 der Satzung erforderlich.
++ Der Verein kann Tätigkeiten auf der Grundlage eines Dienst-, Arbeits- oder Werkvertrages vergüten.
 
 + Verträge nach Absatz 1 bedürfen der Textform. Sie bezeichnen die geschuldete Leistung, den Zeitraum, die Vergütung und die Kündigungsmöglichkeiten. Sie werden nicht rückwirkend geschlossen.
 
@@ -101,7 +100,7 @@
 
 + Leistungen werden auf Antrag in Textform gewährt. Der Antrag ist innerhalb von drei Monaten zu stellen, gerechnet ab dem Entstehen der Aufwendung, dem Ende der Reise oder dem Ende des Zeitraums, für den eine Aufwandsentschädigung begehrt wird. Nach Ablauf dieser Frist ist der Anspruch ausgeschlossen.
 
-+ Dem Antrag sind die Belege beizufügen. Digitale Belege genügen; der Verein bewahrt sie nach den geltenden steuerlichen Vorschriften auf. Für Aufwendungen bis zu 15 Euro genügt ein Eigenbeleg, der Anlass, Datum, Betrag und Empfänger der Zahlung angibt.
++ Dem Antrag sind die Belege beizufügen. Digitale Belege genügen. Für Aufwendungen bis zu 15 Euro genügt ein Eigenbeleg, der Anlass, Datum, Betrag und Empfänger der Zahlung angibt.
 
 + Die Auszahlung erfolgt durch Überweisung auf ein von der berechtigten Person benanntes Konto. Barauszahlungen finden nicht statt.
 
