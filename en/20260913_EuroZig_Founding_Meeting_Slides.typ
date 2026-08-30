@@ -18,7 +18,7 @@
 
 #let tbd = text(fill: highlight, weight: 700, "[ … ]")
 
-#slide(title: "Attendance List")[
+#slide(title: "Attendance List", item: 2)[
   - Please sign the attendance list!
   - Add your name if it is not on it yet
 ]
@@ -30,26 +30,26 @@
   - If, in an election, no candidate obtains a majority of the votes of the members present, the candidate who has received the majority of the valid votes cast is elected; where there are several candidates, a runoff is held
 ]
 
-#slide(title: "Chair of the Meeting and Keeper of the Minutes")[
+#slide(title: "Chair of the Meeting and Keeper of the Minutes", item: 3)[
   - Voting time!
 ]
 
-#slide(title: "Our Bylaws")[
+#slide(title: "Our Bylaws", item: 4)[
   - The German version is legally binding
   - The English version is the one discussed here
   - #link("https://eurozig.eu/bylaws.pdf")[eurozig.eu/bylaws.pdf]
 ]
 
-#slide(title: "Vote on the Bylaws")[
+#slide(title: "Vote on the Bylaws", item: 4)[
   - Voting time!
 ]
 
-#slide(title: "Election of the Three Board Members")[
+#slide(title: "Election of the Three Board Members", item: 5)[
   We are standing for election!
   - David Sugar
     - Zigtoberfest organiser
   - Jan Beete
-    - Zig Day Nürnberg organiser
+    - Zig Day Nuremberg organiser
   - Julian Dax
     - (soon to be) Zig Day Cologne organiser
     - Awebo and Aro contributor
@@ -57,21 +57,21 @@
   We choose the offices among ourselves, as the Bylaws provide.
 ]
 
-#slide(title: "Vote on the Board")[
+#slide(title: "Vote on the Board", item: 5)[
   - Voting time!
 ]
 
-#slide(title: "Election of the Cash Auditor")[
+#slide(title: "Election of the Cash Auditor", item: 5)[
   We are standing for election!
   - TBD
 ]
 
-#slide(title: "Vote on the Cash Auditor")[
+#slide(title: "Vote on the Cash Auditor", item: 5)[
   - Voting time!
 ]
 
-#slide(title: "Membership Fee Regulations")[
-  Agenda item 7 — setting the membership fees and adopting the regulations.
+#slide(title: "Membership Fee Regulations", item: 6)[
+  Setting the membership fees and adopting the regulations.
 
   #table(
     columns: (1fr, auto),
@@ -97,8 +97,8 @@
   - Reduced rate on application; deferral or waiver in cases of hardship
 ]
 
-#slide(title: "Remuneration Regulations")[
-  Agenda item 8 — adoption of the regulations on expenses and remuneration.
+#slide(title: "Remuneration Regulations", item: 7)[
+  Adoption of the regulations on expenses and remuneration.
 
   - Offices honorary for now; the Members' assembly can change that later
   - Instructor and volunteer allowances ("Übungsleiter-" and "Ehrenamtspauschale"),
@@ -110,8 +110,8 @@
     are disclosed in the annual report
 ]
 
-#slide(title: "Instructor Allowance for the Board")[
-  Agenda item 9 — the award that § 7 (1) of the regulations reserves to the assembly.
+#slide(title: "Instructor Allowance for the Board", item: 8)[
+  The award that § 7 (1) of the regulations reserves to the assembly.
 
   - A lump-sum allowance for a board member cannot be granted by the board itself;
     only the Members' assembly may award it

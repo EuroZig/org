@@ -10,10 +10,14 @@
 #import "eurozig.typ": dotted-rule, highlight, ink, kicker, logo, sans, serif
 
 // One slide. `title` is typeset as the slide headline; omit it for a slide that
-// carries its own layout.
-#let slide(title: none, body) = {
+// carries its own layout. `item` prints the number of the agenda item the slide
+// belongs to above the headline.
+#let slide(title: none, item: none, body) = {
   pagebreak(weak: true)
   if title != none {
+    if item != none {
+      block(below: 0.5em, text(font: serif, size: 12pt, fill: highlight, "Agenda item " + str(item)))
+    }
     block(below: 1.1em, text(font: sans, weight: 700, size: 26pt, title))
     dotted-rule()
     v(2mm)
