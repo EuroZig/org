@@ -58,6 +58,11 @@ Anschließend folgt die Tagesordnung:
   - Vorstellung, Aussprache und Beschluss über die Vergütungsordnung
     (§ 5 Abs. 6 der Satzung)
 
++ *Pauschale Aufwandsentschädigungen für Vorstandsmitglieder*
+  - Beschluss über die Bewilligung der Übungsleiterpauschale (§ 3 Nr. 26 EStG) für
+    nebenberufliche Lehrtätigkeiten von Vorstandsmitgliedern; darüber entscheidet
+    nach § 7 Abs. 1 der Vergütungsordnung ausschließlich die Mitgliederversammlung
+
 + *Organisationsfragen*
   - Ermächtigung des Vorstands zu Satzungsänderungen, die Vereinsregister oder
     Finanzamt für Eintragung und Gemeinnützigkeit verlangen

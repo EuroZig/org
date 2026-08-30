@@ -40,6 +40,9 @@ bylaws becomes a founding member and votes on all resolutions taken that day.
 + Election of the three board members and of the auditor
 + Setting the membership fees and adoption of the membership fee regulations
 + Adoption of the remuneration regulations
++ Resolution on the instructor allowance ("Übungsleiterpauschale", § 3 Nr. 26 EStG)
+  for the teaching activities of board members, which under § 7 (1) of those
+  regulations only the Members' assembly may award
 + *Any other business* -- discussion of the future direction and activities of the
   association, followed by the closing of the meeting
 
