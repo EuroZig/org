@@ -51,8 +51,8 @@
   - Necessary expenses, travel and meals at the statutory rates
   - Instructor and volunteer allowances ("Übungsleiter-" and "Ehrenamtspauschale"), only on a prior written award
   - Together with contract remuneration, capped at 3,000 euro per person and year
-  - The Members' assembly resolves an annual budget; without one, no such payments --
-    and it alone decides on payments to board members
+  - The board decides within the regulations; payments to board members are decided
+    by the Members' assembly alone
   - Claims within three months, with receipts, paid by credit transfer; all payments
     are disclosed in the annual report
 ]
