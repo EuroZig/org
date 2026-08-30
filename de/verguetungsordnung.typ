@@ -29,11 +29,11 @@
 
 + Nicht ersatzfähig sind Aufwendungen der privaten Lebensführung, Geldbußen, Geldstrafen und Verwarnungsgelder sowie Aufwendungen, die einer Person ohnehin entstanden wären.
 
-+ Die Anschaffung von Gegenständen mit einem Wert von mehr als der Schwelle nach § 7 Abs. 3 erfolgt auf Rechnung des Vereins. Diese Gegenstände sind Eigentum des Vereins.
++ Die Anschaffung von Gegenständen mit einem Wert von mehr als der Schwelle nach § 7 Abs. 2 erfolgt auf Rechnung des Vereins. Diese Gegenstände sind Eigentum des Vereins.
 
 = § 3 Reisekosten
 
-+ Reisen, die im Auftrag des Vereins oder zur Wahrnehmung eines Amtes unternommen werden, werden nach den folgenden Absätzen erstattet. § 7 Abs. 3 bleibt unberührt.
++ Reisen, die im Auftrag des Vereins oder zur Wahrnehmung eines Amtes unternommen werden, werden nach den folgenden Absätzen erstattet. § 7 Abs. 2 bleibt unberührt.
 
 + Bahnfahrten werden in der zweiten Wagenklasse erstattet. Die Kosten einer Ermäßigungskarte werden anteilig oder vollständig erstattet, soweit sich die Karte durch die für den Verein unternommenen Fahrten voraussichtlich amortisiert. Örtlicher Nahverkehr wird in tatsächlicher Höhe erstattet.
 
@@ -79,11 +79,10 @@
 
 + Aufwendungen und Reisekosten von Personen, die auf Einladung des Vereins tätig werden, insbesondere von Vortragenden und Lehrenden, werden nach §§ 2 und 3 erstattet, wenn der Vorstand die Erstattung vorher zugesagt hat.
 
-= § 7 Budget, Zuständigkeit und Verfahren
+= § 7 Zuständigkeit und Verfahren
 
-+ Die Mitgliederversammlung beschließt jährlich mit dem Haushalt ein Gesamtbudget für Leistungen nach §§ 4 und 5. Ohne ein solches Budget dürfen Leistungen nach §§ 4 und 5 nicht gewährt werden. Der Ersatz von Aufwendungen und Reisekosten nach §§ 2 und 3 wird auf das Budget nicht angerechnet.
 
-+ Über Leistungen an Mitglieder entscheidet der Vorstand im Rahmen des Budgets. Über Vergütungen und pauschale Aufwandsentschädigungen an Vorstandsmitglieder entscheidet ausschließlich die Mitgliederversammlung.
++ Über Leistungen an Mitglieder entscheidet der Vorstand. Über Vergütungen und pauschale Aufwandsentschädigungen an Vorstandsmitglieder entscheidet ausschließlich die Mitgliederversammlung.
 
 + Aufwendungen und Reisen, deren voraussichtliche Kosten im Einzelfall 100 Euro übersteigen, bedürfen der vorherigen Zustimmung des Vorstands in Textform.
 

@@ -31,11 +31,11 @@
 
 + Not reimbursable are expenses of private living, administrative fines, criminal fines and penalty payments, and expenses that a person would have incurred in any case.
 
-+ Items worth more than the threshold under § 7 (3) are acquired on the association's account. Such items are the property of the association.
++ Items worth more than the threshold under § 7 (2) are acquired on the association's account. Such items are the property of the association.
 
 = § 3 Travel expenses
 
-+ Journeys undertaken on behalf of the association or in the performance of an office are reimbursed in accordance with the following paragraphs. § 7 (3) remains unaffected.
++ Journeys undertaken on behalf of the association or in the performance of an office are reimbursed in accordance with the following paragraphs. § 7 (2) remains unaffected.
 
 + Rail journeys are reimbursed at second-class fares. The cost of a discount card is reimbursed in part or in full to the extent that the card is likely to pay for itself through the journeys undertaken for the association. Local public transport is reimbursed at actual cost.
 
@@ -81,11 +81,10 @@
 
 + Expenses and travel costs of persons acting at the invitation of the association, in particular speakers and teachers, are reimbursed under §§ 2 and 3 where the board has given prior assurance of reimbursement.
 
-= § 7 Budget, competence and procedure
+= § 7 Competence and procedure
 
-+ Together with the budget, the Members' assembly resolves each year on a total budget for payments under §§ 4 and 5. Without such a budget, no payments under §§ 4 and 5 may be granted. The reimbursement of expenses and travel costs under §§ 2 and 3 does not count towards the budget.
 
-+ The board decides on payments to members within the budget. Remuneration and lump-sum expense allowances for members of the board are decided exclusively by the Members' assembly.
++ The board decides on payments to members. Remuneration and lump-sum expense allowances for members of the board are decided exclusively by the Members' assembly.
 
 + Expenses and journeys whose expected cost exceeds 100 euro in the individual case require the prior consent of the board in text form.
 
