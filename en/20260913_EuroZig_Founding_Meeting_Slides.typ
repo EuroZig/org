@@ -15,6 +15,58 @@
   lang: "en",
 )
 
+#slide(title: "Attendance List")[
+  - Please sign the attendance list!
+  - Add your name if it's not already on there
+]
+
+#slide(title: "How we Vote")[
+  - The Members’ assembly generally passes its resolutions by relative majority in an open vote.
+  - Abstentions have no effect.
+  - At the request of at least three members entitled to vote, the vote must be held by secret ballot.
+  - If, in an election, no candidate obtains a majority of the votes of the members present, the candidate who has received the majority of the valid votes cast is elected; where there are several candidates, a runoff is held.
+]
+
+#slide(title: "Chair of the Meeting and Keeper of the Minutes")[
+  - Voting time!
+]
+
+#slide(title: "Our Bylaws")[
+  - German version is legally binding
+  - English version is discussed here
+  - https://eurozig.eu/bylaws.pdf
+]
+
+#slide(title: "Vote on the Bylaws")[
+    - Voting time!
+]
+
+#slide(title:"Election of the three board members")[
+  We are standing for election!
+  - David Sugar
+    - Zigotberfest Organisator
+  - Jan Beete
+    - Zig Day Nürnberg Organisator
+  - Julian Dax
+    - (soon to be) Zig Day Cologne Organisator
+    - Awebo and Aro contributor
+
+  We are choosing the positions amongst ourselfs (according to the bylaws).
+]
+
+#slide(title: "Vote on the Board")[
+    - Voting time!
+]
+
+#slide(title:"Election of the financial auditor")[
+  We are standing for election!
+  - TBD
+]
+
+#slide(title: "Vote on the financial auditor")[
+    - Voting time!
+]
+
 #let tbd = text(fill: highlight, weight: 700, "[ … ]")
 
 #slide(title: "Membership Fee Regulations")[
