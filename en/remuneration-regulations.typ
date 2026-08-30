@@ -83,7 +83,6 @@
 
 = § 7 Competence and procedure
 
-
 + The board decides on payments to members. Remuneration and lump-sum expense allowances for members of the board are decided exclusively by the Members' assembly.
 
 + Expenses and journeys whose expected cost exceeds 100 euro in the individual case require the prior consent of the board in text form.

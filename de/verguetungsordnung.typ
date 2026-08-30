@@ -81,7 +81,6 @@
 
 = § 7 Zuständigkeit und Verfahren
 
-
 + Über Leistungen an Mitglieder entscheidet der Vorstand. Über Vergütungen und pauschale Aufwandsentschädigungen an Vorstandsmitglieder entscheidet ausschließlich die Mitgliederversammlung.
 
 + Aufwendungen und Reisen, deren voraussichtliche Kosten im Einzelfall 100 Euro übersteigen, bedürfen der vorherigen Zustimmung des Vorstands in Textform.
