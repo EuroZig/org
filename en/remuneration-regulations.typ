@@ -23,7 +23,6 @@
 
 + Payments under these regulations are subject to the budgetary situation and to the funds available.
 
-
 = § 2 Reimbursement of expenses
 
 + Whoever acts for the association is entitled to reimbursement of the expenses incurred in doing so, to the extent that those expenses are necessary in the circumstances (§ 670 BGB).
@@ -54,19 +53,11 @@
 
 = § 4 Lump-sum expense allowances
 
-+ For activities carried out on a secondary basis, the association may grant lump-sum expense allowances, namely
-
-  + for activities in training, further education and teaching that involve direct personal contact with the persons being taught, in particular for leading workshops and for talks, up to the amount of the tax-free allowance under § 3 Nr. 26 EStG (the instructor allowance, "Übungsleiterpauschale"), and
-
-  + for other activities in the service of the association, in particular for holding an office, for organising events, for producing teaching materials and for administration, up to the amount of the tax-free allowance under § 3 Nr. 26a EStG (the volunteer allowance, "Ehrenamtspauschale").
-
-  The production of teaching materials falls under letter a to the extent that it is connected with the person's own teaching activity, and otherwise under letter b.
-
-+ An activity is carried out on a secondary basis if it takes up no more than one third of the time of a comparable full-time position.
++ For activities carried out on a secondary basis, the association may grant lump-sum expense allowances up to the amount of the tax-free allowances under § 3 Nr. 26 EStG (the instructor allowance, "Übungsleiterpauschale") and § 3 Nr. 26a EStG (the volunteer allowance, "Ehrenamtspauschale").
 
 + A lump-sum expense allowance requires a prior award under § 7 in text form, stating the activity, the period and the amount. It is not awarded retroactively for periods that have already ended.
 
-+ The tax-free allowances under § 3 Nr. 26 EStG and § 3 Nr. 26a EStG relate to the person and to the calendar year; anyone who already uses them in whole or in part at another organisation informs the board of this in text form before the award is made.
++ Anyone who already uses the tax-free allowance under § 3 Nr. 26 EStG or § 3 Nr. 26a EStG in whole or in part at another organisation informs the board of this in text form before the award is made.
 
 + The reimbursement of expenses and travel costs under §§ 2 and 3 may be granted in addition to a lump-sum expense allowance.
 

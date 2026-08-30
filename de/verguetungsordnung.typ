@@ -21,7 +21,6 @@
 
 + Leistungen nach dieser Ordnung stehen unter dem Vorbehalt der Haushaltslage und der zur Verfügung stehenden Mittel.
 
-
 = § 2 Ersatz von Aufwendungen
 
 + Wer für den Verein tätig wird, hat Anspruch auf Ersatz der Aufwendungen, die dabei entstehen und die den Umständen nach erforderlich sind (§ 670 BGB).
@@ -52,19 +51,11 @@
 
 = § 4 Pauschale Aufwandsentschädigungen
 
-+ Der Verein kann für nebenberufliche Tätigkeiten pauschale Aufwandsentschädigungen gewähren, und zwar
-
-  + für Tätigkeiten in der Ausbildung, Fortbildung und Lehre, die einen unmittelbaren persönlichen Kontakt zu den geförderten Personen voraussetzen, insbesondere für die Leitung von Workshops und für Vorträge, bis zur Höhe des Freibetrags nach § 3 Nr. 26 EStG (Übungsleiterpauschale), und
-
-  + für sonstige Tätigkeiten im Dienst des Vereins, insbesondere für die Wahrnehmung eines Amtes, für die Organisation von Veranstaltungen, für die Erstellung von Lehrmaterialien und für die Verwaltung, bis zur Höhe des Freibetrags nach § 3 Nr. 26a EStG (Ehrenamtspauschale).
-
-  Die Erstellung von Lehrmaterialien fällt unter Buchstabe a, soweit sie im Zusammenhang mit einer eigenen Lehrtätigkeit erfolgt, im Übrigen unter Buchstabe b.
-
-+ Nebenberuflich ist eine Tätigkeit, die zeitlich nicht mehr als ein Drittel einer vergleichbaren Vollzeitstelle in Anspruch nimmt.
++ Der Verein kann für nebenberufliche Tätigkeiten pauschale Aufwandsentschädigungen bis zur Höhe der Freibeträge nach § 3 Nr. 26 EStG (Übungsleiterpauschale) und § 3 Nr. 26a EStG (Ehrenamtspauschale) gewähren.
 
 + Eine pauschale Aufwandsentschädigung setzt eine vorherige Bewilligung nach § 7 in Textform voraus, die die Tätigkeit, den Zeitraum und die Höhe bezeichnet. Für bereits abgeschlossene Zeiträume wird sie nicht rückwirkend bewilligt.
 
-+ Die Freibeträge nach § 3 Nr. 26 EStG und § 3 Nr. 26a EStG sind personen- und jahresbezogen; wer sie ganz oder teilweise bereits bei einer anderen Körperschaft ausschöpft, teilt dies dem Vorstand vor der Bewilligung in Textform mit.
++ Wer die Freibeträge nach § 3 Nr. 26 EStG oder § 3 Nr. 26a EStG ganz oder teilweise bereits bei einer anderen Körperschaft ausschöpft, teilt dies dem Vorstand vor der Bewilligung in Textform mit.
 
 + Der Ersatz von Aufwendungen und Reisekosten nach §§ 2 und 3 kann neben einer pauschalen Aufwandsentschädigung gewährt werden.
 
