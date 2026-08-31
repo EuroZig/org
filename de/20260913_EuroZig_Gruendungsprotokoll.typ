@@ -24,9 +24,8 @@ Der Versammlungsleiter gab sodann folgende Tagesordnung bekannt:
 2. Wahl der drei Vorstandsmitglieder und des Kassenprüfers
 3. Festsetzung der Mitgliedsbeiträge und Erlass der Beitragsordnung
 4. Erlass der Vergütungsordnung
-5. Pauschale Aufwandsentschädigungen für Vorstandsmitglieder
-6. Organisationsfragen
-7. Sonstiges
+5. Organisationsfragen
+6. Sonstiges
 
 Gegen die vorgeschlagene Tagesordnung erhob sich kein Widerspruch ODER Die Tagesordnung wurde um die folgenden Punkte erweitert.
 
@@ -96,19 +95,11 @@ Die Mitgliederversammlung erlässt gemäß § 5 Abs. 6 der Satzung die Vergütun
 
 = TOP 5
 
-Der Versammlungsleiter wies darauf hin, dass über pauschale Aufwandsentschädigungen an Vorstandsmitglieder nach § 7 Abs. 1 der Vergütungsordnung ausschließlich die Mitgliederversammlung entscheidet, und eröffnete die Aussprache hierüber.
-
-Nach Ende der Aussprache wurde folgender *Beschluss* einstimmig durch Handzeichen gefasst.
-
-Vorstandsmitgliedern wird für nebenberufliche Tätigkeiten in der Ausbildung, Fortbildung und Lehre im Dienst des Vereins eine pauschale Aufwandsentschädigung bis zur Höhe des Freibetrags nach § 3 Nr. 26 EStG (Übungsleiterpauschale) bewilligt, je Person höchstens TBD Euro im Kalenderjahr. Die Bewilligung gilt für den Zeitraum vom 13.09.2026 bis zum 31.12.2027. Die Auszahlung erfolgt auf Antrag nach § 7 der Vergütungsordnung. Die Vorstandsämter werden weiterhin ehrenamtlich ausgeübt; ein Beschluss nach § 6 Abs. 5 der Satzung ist damit nicht verbunden.
-
-= TOP 6
-
 Die Versammlung fasste auf Anregung der/s neu gewählten Vorsitzenden folgenden Beschluss:
 
 Der Vorstand wird ermächtigt, Satzungsänderungen vorzunehmen, die nach Auffassung des Vereinsregisters oder des zuständigen Finanzamts für Körperschaften für die Eintragung des Vereins bzw. dessen Anerkennung als gemeinnützig notwendig sind. Derartige Satzungsänderungen dürfen die Bestimmungen über den Vereinszweck, über das Verfahren bei Wahlen und Beschlüssen und über den Anfall des Vereinsvermögens bei Auflösung des Vereins nicht inhaltlich ändern.
 
-= TOP 7
+= TOP 6
 
 Nach einer allgemeinen Aussprache über die zukünftige Ausrichtung und Tätigkeit des Vereins schloss der Leiter die Versammlung mit dem Dank an die Erschienenen um TBD Uhr.
 
