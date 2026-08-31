@@ -2,10 +2,10 @@
 // Compile with ../build.sh or directly with:
 //   typst compile --root .. 20260913_EuroZig_Founding_Meeting_Slides.typ
 //
-// The fee rates and the amount of the instructor allowance are still open; they
-// are marked with `tbd` here for the same reason as in the regulations — the
-// Members' assembly fixes them on the day. Keep the slides in sync with
-// en/membership-fee-regulations.typ and en/remuneration-regulations.typ.
+// The fee rates are still open; they are marked with `tbd` here for the same
+// reason as in en/membership-fee-regulations.typ — the Members' assembly fixes
+// them on the day. Keep the slides in sync with that document and with
+// en/remuneration-regulations.typ.
 #import "../templates/slides.typ": eurozig-slides, slide
 #import "../templates/eurozig.typ": highlight, ink
 
@@ -104,21 +104,9 @@
   - Instructor and volunteer allowances ("Übungsleiter-" and "Ehrenamtspauschale"),
     only on a prior written award
   - Together with contract remuneration, capped at 3,000 euro per person and year
-  - The board decides within the regulations; payments to board members are decided
-    by the Members' assembly alone
+  - The board decides on payments; a board member is excluded from deciding on a
+    payment to themselves
   - Claims within three months, with receipts, paid by credit transfer; all payments
     are disclosed in the annual report
 ]
 
-#slide(title: "Instructor Allowance for the Board", item: 8)[
-  The award that § 7 (1) of the regulations reserves to the assembly.
-
-  - A lump-sum allowance for a board member cannot be granted by the board itself;
-    only the Members' assembly may award it
-  - Proposed: up to the tax-free instructor allowance (§ 3 Nr. 26 EStG,
-    "Übungsleiterpauschale") for teaching work, at most #tbd euro per person and year
-  - Period 13 September 2026 to 31 December 2027 -- an award cannot be made for a
-    period that has already ended, and the assembly meets once a year
-  - The board offices stay honorary; this is not a resolution on paid offices under
-    § 6 (5) of the Bylaws
-]
