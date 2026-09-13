@@ -28,7 +28,7 @@ Zweck von EuroZig ist die Förderung von Bildung, Wissenschaft und Forschung im 
 
 + EuroZig fördert die Volks- und Berufsbildung:
 
-  + Durch die Ausrichtung und Unterstützung von Konferenzen über die Entwicklung freier und quelloffener Software (FOSS) für Hobbyanwender, Studenten und Fachleute.
+  + Durch die Ausrichtung und Unterstützung von Konferenzen über die Entwicklung freier und quelloffener Software (FOSS) für Hobbyanwendende, Studierende und Fachleute.
 
   + Durch die Ausrichtung und Unterstützung von Zig-Meetups für lokale Communities.
 
