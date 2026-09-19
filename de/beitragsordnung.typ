@@ -1,20 +1,13 @@
 // Beitragsordnung des EuroZig e.V. Kompilieren mit ../build.sh (setzt die
 // Revision im Fußzeilen-Stempel) oder direkt mit:
 //   typst compile --root .. --input rev=$(git rev-parse --short=8 HEAD) beitragsordnung.typ
-//
-// Die Beitragssätze stehen noch nicht fest. Sie sind im Text mit `tbd`
-// markiert, damit im gesetzten PDF sichtbar bleibt, was die
-// Mitgliederversammlung noch festlegen muss; jede dieser Stellen ist vor der
-// Veröffentlichung zu ersetzen.
 #import "../templates/bylaws.typ": bylaws-doc
-#import "../templates/eurozig.typ": highlight, ink
+#import "../templates/eurozig.typ": ink
 
 #show: bylaws-doc.with(
   title: "Beitragsordnung",
   lang: "de",
 )
-
-#let tbd = text(fill: highlight, weight: 700, "[ … ]")
 
 = § 1 Beitragspflicht
 
@@ -42,10 +35,10 @@
       text(weight: 700, "Mitgliedschaft"),
       text(weight: 700, "Beitrag pro Jahr"),
     ),
-    [Ordentliche Mitglieder], tbd,
-    [Ordentliche Mitglieder, ermäßigt], tbd,
-    [Fördernde Mitglieder -- natürliche Personen (Mindestbeitrag)], tbd,
-    [Fördernde Mitglieder -- juristische Personen (Mindestbeitrag)], tbd,
+    [Ordentliche Mitglieder], [60,00 #sym.euro],
+    [Ordentliche Mitglieder, ermäßigt], [30,00 #sym.euro],
+    [Fördernde Mitglieder -- natürliche Personen (Mindestbeitrag)], [10,00 #sym.euro],
+    [Fördernde Mitglieder -- juristische Personen (Mindestbeitrag)], [500,00 #sym.euro],
   )
 
 + Den ermäßigten Beitrag erhalten auf Antrag Schülerinnen und Schüler, Studierende, Auszubildende, Personen im Freiwilligendienst, Erwerbslose sowie Personen in vergleichbar eingeschränkten wirtschaftlichen Verhältnissen. Der Vorstand kann einen Nachweis verlangen. Die Ermäßigung gilt jeweils für das laufende Beitragsjahr; entfallen ihre Voraussetzungen, teilt das Mitglied dies dem Vorstand mit.

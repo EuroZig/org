@@ -2,19 +2,14 @@
 // Compile with ../build.sh (which stamps the revision into the footer) or directly with:
 //   typst compile --root .. --input rev=$(git rev-parse --short=8 HEAD) membership-fee-regulations.typ
 //
-// The fee rates have not been decided yet. They are marked with `tbd` so the
-// typeset PDF keeps showing what the Members' assembly still has to fix; every
-// one of those spots must be replaced before publication. Keep in sync with the
-// German original.
+// Keep in sync with the German original.
 #import "../templates/bylaws.typ": bylaws-doc
-#import "../templates/eurozig.typ": highlight, ink
+#import "../templates/eurozig.typ": ink
 
 #show: bylaws-doc.with(
   title: "Membership Fee Regulations",
   lang: "en",
 )
-
-#let tbd = text(fill: highlight, weight: 700, "[ … ]")
 
 = § 1 Obligation to pay
 
@@ -42,10 +37,10 @@
       text(weight: 700, "Membership"),
       text(weight: 700, "Fee per year"),
     ),
-    [Regular members], tbd,
-    [Regular members, reduced rate], tbd,
-    [Supporting members -- natural persons (minimum fee)], tbd,
-    [Supporting members -- legal persons (minimum fee)], tbd,
+    [Regular members], [#sym.euro#h(0.15em)60.00],
+    [Regular members, reduced rate], [#sym.euro#h(0.15em)30.00],
+    [Supporting members -- natural persons (minimum fee)], [#sym.euro#h(0.15em)10.00],
+    [Supporting members -- legal persons (minimum fee)], [#sym.euro#h(0.15em)500.00],
   )
 
 + The reduced rate is granted on application to pupils, students, apprentices, persons in a voluntary service, unemployed persons and persons in comparably limited economic circumstances. The board may request evidence. The reduction applies to the current fee year; if the conditions for it cease to apply, the member informs the board.
